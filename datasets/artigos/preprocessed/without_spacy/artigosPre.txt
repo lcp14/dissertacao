@@ -1,0 +1,2615 @@
+simulation studies distributed nonlinear line base lumped model
+influence input pulse shape generation nonlinear transmission lines
+approach power estimation electronic system level use distributed simulation
+learn optimal decision lists search diagnosis disease
+performance evaluation latency link power consumption model algorithm wormhole switching network chip
+application model performance evaluation event trigger sensor network
+one chaotic cellular fix border apply modeling image
+cancer patients undergo chemotherapy hospital pilot study
+effects test driven development internal quality external quality productivity review
+ontology data model
+ontology database model whole substance
+use information improve semi tweet sentiment classification
+survey comparative study tweet sentiment analysis via semi supervised learning
+neural network computer vision middle size league
+evaluation beacon floodlight drivers use emulator apply software define network
+properties analysis complex network applied energy network distribution
+model fire probability amazon use entropy method
+extent 2014 forest fragmentation amazon
+post fire changes forest biomass retrieve airborne
+energy foresight scenario energy policy
+say project turn result world treatment
+self model load forecasting problem grid environment
+multi objective energy storage power dispatch use plug vehicle
+deep learning forecasting model use disaggregated function evaluations apply household electricity demand forecasting
+environment base medium support learning
+increase ribosome density associate positively charge residue ribosome profile experiment perform absence translation inhibitor
+net application cotton yarn industry
+strong normalization proof graphs propositional logic
+towards peer assist video demand system build helpful overlays
+program synthesis model finding
+unconditionally secure universally privacy preserving linear algebra
+signer approach signature discovery
+tissue associated bacterial alterations rectal carcinoma patients reveal community profiling
+inverse kinematics model calibration optimization five robot repair surface profiles hydraulic turbine blades
+time stereo vision system distance measurement image restoration
+outwit use context sensitive grammar
+cryptographic algorithm identification use machine learning processing
+visualization property datum quality assessment case study
+environment support research sugarcane agriculture
+provenance model base specification datum analysis information system
+computational intelligence financial markets survey future directions
+improve content selection update summarization subtopic enriched sentence ranking functions
+method estimation transit time blood pressure variation use sensor
+overview application soil ecosystem service approach
+diagnosis gastrointestinal cancer use case base rule base reasoning
+spider optimization base support vector machines apply energy theft detection
+fine tuning contextual base optimum path forest land cover classification
+new approach contextual learning use interval arithmetic applications land use classification
+approach unsupervised land cover classification
+loss identification path forest
+robust automate arrhythmia detection beat signal
+approach urban road detection use laser data aerial digital image
+computer vision base approach aid diagnosis disease
+machine learning algorithms automatic classification marmoset vocalizations
+viewer software build base scan synthetic female pelvic floor model
+impedance simulation design via algorithm circuit
+solution algorithm application robot kinematic
+compression test machine experimental teaching mechanical forming
+metropolis method cross section particle collision algorithm result
+architecture conformance checking dynamically typed languages
+mining violation version history
+empirical study quantify characteristics programs may influence execution unit testing perspective
+enumeration cycle cyclically graph
+recognition cluster algebra type
+algorithms properties positive matrices
+knowledge connectivity requirements solve byzantine consensus participant
+architecture security service
+usability engineering radiological workstation mobile devices experience report
+enrichment address area case study
+prediction destination route urban trip automated identification place types stay point
+subjective cognitive symptoms migraine attack prospective study clinic base sample
+prostate alternative open surgery patients large prostate moderate severe urinary tract symptoms
+influence use plant medication adherence people
+medium long term outcome prostate artery patients benign hyperplasia result 630 patient
+ultrasound finding change breast disease pregnancy lactation
+factor associate expression symptom user
+predictor clinical outcome prostate artery spherical polyvinyl alcohol particles patients benign hyperplasia
+software product line traceability mapping study
+post stroke motor function brain imaging
+requirements engineering safety critical systems systematic literature review
+assess user emotion interaction time approach sensor
+methodology data information quality assessment context emergency situational awareness
+architecture based semantic web retrieve information pattern repositories
+improve sensitivity shotgun use cost network threshold selector algorithm
+machine learn smote forest improve selectivity ab prediction
+mobile reality enhance navigation wheelchair user
+meta model information visualization base
+use traffic filtering rules devices transparent flow switching automatic dynamic circuit creation hybrid network
+method location recommendation via skyline query tolerant noised data
+improve load balancing path length stability low cost wireless
+intersection longest paths graph class
+discussion concern performance type network use vector
+perimeter base calculation object coverage multi camera systems
+challenge time sensor network theory application
+assessing availability wireless visual sensor networks base targets perimeter coverage
+centralized algorithms redundant coverage maximization wireless visual sensor networks
+enhance availability wireless visual sensor networks select redundant nodes networks occlusion
+ammonia gas sensor based frequency dependent impedance characteristics film
+evaluation three algorithms segmentation overlapping cervical cells
+object base selection framework
+evaluating user gestures rehabilitation electromyographic signals
+assessment model education health base games environment
+equipment supply association health care unit
+building program construction verification tool principle
+program construction verification components base algebra
+attention base model human robot
+model autonomous mobile robot
+robotics paradigm science technology dissemination
+model verdict outcomes use social network measures caviar network case
+influence information price willingness pay expect quality evaluation
+quality university service reflection case study context
+property valuation use machine learning algorithms study metropolitan area
+personality public safety offender non offender use decision trees case
+time approximation schemes circle packing problem
+cluster continuous facility location problems
+approximation algorithm level facility location problem
+20 feature support vector machine improve identification
+link perspective analyze health information communication technology
+scope aid test selection minimization software reuse
+bilingual learning support community practice
+new approach identification cancer relate pathways use protein networks data
+programming base approach facility glass container production planning
+approach base algorithm apply image problem
+design analysis bit length optimization algorithm float fix point conversion
+fairness physician scheduling problem emergency room
+fem approach simulation flow particle
+uncertainty quantification simulation particle flow
+improvement traffic condition alerting rout system
+criterion map comparison tool land change model projection
+time time warping method land use land cover mapping
+error report parsing expression grammar
+covariance feature conception integration performance person identification
+heuristic hub location rout problem
+detection classification mass image kernel approach
+optimizing framework release plan use incremental funding method
+analyze incremental funding method software project scheduling algorithms
+evaluation agile software projects public sector literature review
+state charge estimation lead acid batteries use multi frequency ac test
+tool measure movement
+reality application base web browser
+reveal segment reference genome resolution linkage disequilibrium scan
+line cover graph
+assess fine grain feature dependency
+machine scheduler base bind feature energy performance computing cloud
+reality application assist underwater manipulator
+postnatal care opportunity challenge
+semi affine representation governor system generation
+software complexity analysis based entropy theory metric
+tool analysis camera image use percentage map
+performance energy efficiency analysis physics simulation application cluster arm processor
+predicting human mobility use heterogeneous data sources
+spatial relationships contain tweet
+enrichment geographic information base gazetteers
+survey scope document
+impact academic mobility quality graduate programs
+tool modeling simulation dengue dynamics
+study use information decision making
+dominance base set classification system fault diagnosis grid environment
+thing architecture city
+edge cache mobility prediction mobile network
+two tier adaptive data aggregation approach group communication
+service placement latency reduction thing
+preserve architectural styles search based design software product line architecture
+feature drive crossover operator objective optimization product line architecture
+meta learning base selection software reliability model
+test datum generation approach mutation testing feature model
+derive product variability test feature models approach
+air quality health impacts future ethanol production use state
+analysis mobile sources atmospheric emissions city
+analysis biomass burn aerosol plume southern
+fix optimize approach efficient scale virtual network function placement chaining
+make puzzle identity management scale distribute system
+improve order parallel propagator scenario condition
+particle filter tracking hybrid approach improve robustness occlude environment
+text user verification handwritten words signatures mobile devices
+transparent optimize distribute processing
+transversally enriched pipe element method approach blood flow modeling
+association three vessel geometry presence plaque anterior descend artery risk patient
+head head comparison compute tomography angiography ultrasound model point view
+coronary compute tomography angiography blood flow model pron improve pron insight base comparison ultrasound model
+head head comparison ct derive blood flow model
+search geometry
+model quark asymmetry
+model sentiment analysis base ontology case
+generation system rule extraction use concept analysis
+log algorithm connect facility location problem
+correlate remission schizophrenia subject role task executive process
+donate donate question analysis factor blood donation
+protocol improve anxiety sleep quality
+pas test patient
+change follow nerve stimulation protocol assess depression treatment
+wrestling experimental arena
+effect stimulation cortex combine training treat schizophrenia sham control randomize trial
+rule thumb thing pron seem letter
+nerve stimulation hallucination schizophrenia case study
+commentary free explain freedom away new ways measure pron
+stimulation pron lose energy
+direct current stimulation effects athletes performance exploratory proof concept trial
+storytelling variant base relation
+computing modulo compose cellular rule
+formalization type
+autonomic quality experience management software define network
+approach design fabrication prototyping hip
+edge attractor walk network
+lump game dynamic network
+quantum walk model
+hamster data communication architecture unmanned aerial ground aquatic systems
+design implementation gateway sensor network integration thing
+twenty year object relational mapping survey pattern solution implication application design
+extend hybridization datum mining deal sequence
+taxonomy job scheduling distributed computing systems
+shield video streaming packet loss
+support regulation crisis management mean institution
+image restoration use gradient iteration constraints band extrapolation
+extend quality datum stream cluster algorithm
+survey feature drift adaptation definition benchmark challenges future directions
+feasibility study slide mode control greenhouse
+phase diagram model field distribution
+taxonomy network service management research field
+selection representative models decision analysis uncertainty
+automate system monitoring sprinkler irrigation control
+community structure dynamic composting view
+discover non redundant clusterings attributed graphs
+analysis flight delay base pattern
+evaluating temporal aggregation predict sea surface temperature ocean
+application patent type ionization chamber
+determination correlate uncertainty mark
+graphs modal logics
+graphical calculi modal logics
+methodology information extraction application impedance fault analysis
+collaboration management
+learning radio digital learning
+analysis scrum practice risk treatment
+assessment fun interactive systems survey
+classification reject option software defect prediction
+perform computation offloading multiple platforms
+kernel learn algorithm drug target interaction prediction
+notification orient paradigm digital hardware
+method dynamic balancing workload scalability systems
+explore transformation time series classification decision tree
+molecular modeling synthesis pharmacological evaluation 134 anti analgesic agents
+vehicular networks new challenge content delivery base application
+hide color watermark halftone image use similarity pattern
+secure self recovery watermarking scheme error concealment tamper detection
+blind image quality assessment use local binary patterns
+enhance inverse via coupled dictionary training
+effect defect nuclear observable
+process obtain behavior context system
+analysis sac requirement
+mapping study scalability model
+application ontology requirement engineering review literature
+correlate analysis mutation testing towards strategy
+efficient gesture recognizer embed system base elm pattern recognition algorithm
+constrained natural element method apply electromagnetic model
+sensitivity analysis evaluate criticality software program
+environmental advantage rubber recycling
+thermal system base controlled entropy treatment medical waste solar energy
+typologies agricultural production systems link land use socioeconomics territorial configuration
+observatory gather disseminate information health relate effect climate change
+spatial modeling categorical attributes use indicator simulation information uncertainty analyses
+asap privacy preserve authentication detection protocol
+difference time domain method three grid prism
+reality access dam crack information
+three representation datum set
+visualization datum volume use reduction technique
+enhance intelligence emotion assessment
+instance selection method datasets base geometric diffusion
+game approach collaborative decision make include airport management
+image processing mobile devices classify pressure injury
+worldwide alien invasion methodological approach forecast potential spread highly pollinator
+routing scheme ecosystem demography model
+compression sparse column oriented data
+transmission expansion planning optimization operator algorithm
+different estimation procedures parameters exponential geometric distribution medical data
+sparse reconstruction temperature distribution use fiber optic sensors applications electrical generator stator monitoring
+improve spatial resolution use total variation deconvolution
+approach improve resolution force mapping sensing system
+performance approach computing grating strain profile use graphic process unit
+predictive delay handover video streaming
+prevent quality degradation video streaming use selective redundancy
+multi scheduling scientific cloud
+dynamic cloud dimensioning approach parallel scientific case study comparative domain
+analyze data file
+geographic information systems use practical way teaching mathematics
+identification asset statement technology support time location system case refinery
+teaching material books publications versus practice myth truth installation use safety valve
+platform service billing model cloud computing management approaches
+management multiple applications shared sensor actuators network
+hull number
+towards time embedded system water monitoring robotic sailboat
+line algorithm cluster detection node event processing
+system activity recognition inference health situation assist living
+ambient assisted living base cloud computing thing
+trust model context aware system domain
+portability efficiency core core architecture
+practical kernel base reinforcement learning
+design evaluation services interface thing
+dynamic 80221 information server mesh architecture network
+iteration number distance graph
+infection time geodesic convexity
+complexity aspect triangle path convexity
+compute role assignment graph
+time algorithm radon number grid
+slash burn graphs firefighting weight
+hull number pk graph
+study set problem weight vertex subset
+create exhibition room emigration archive
+energy change edge deletion
+concept keyboard base review text entry optimization technique
+emergent vision system character
+generation mesh crack use decomposition
+temporally sculpture object
+like portfolio optimization approach
+clipping signature
+credit analysis via cluster classifier
+enforce exception handling policy domain language
+explore context sensitive data flow analysis early vulnerability detection
+feature dependencies change propagators exploratory study software product line
+boundary work climate policy making reflection science policy interface
+market trading forest certificates
+farming biodiversity segregation integration revisit land sparing versus land sharing debate
+emission cattle farm
+mud socio impact dam breach
+laser induce breakdown spectroscopy determine soil texture technique
+laser induce fluorescence spectroscopy apply diagnosis citrus
+phosphorus quantification fertilizer use laser induce breakdown spectroscopy libs methodology analysis correct matrix effect
+laser base method evaluate degree soil matter soil review
+language framework business process models natural language text
+analysis fault detection power transmission line
+evaluation performance assessment model electricity distribution company
+use jump process model mobility line game
+video descriptor use orientation tensors shape base trajectory clustering
+cloud base architecture thing target industrial devices remote monitoring control
+automated approach scheduling bug fix task
+diffusion tensor imaging patients use model
+characterization myocardium view use accelerate breathing diffusion tensor
+accelerate breathing diffusion tensor heart use registration image selection
+diffusion entire ventricle use breathing accelerated simultaneous imaging
+user approach adaptation communication service
+enable dynamic models runtime
+distribute execution plan spatial join queries use multidimensional histograms
+water body extraction image automated methodology base hue component color transformation model
+parallel computation physics base simulations
+image correspondence base interest point correlation difference streams method applications mobile robot localization
+optimization network evolution algorithm
+measure knowledge acquisition virtual learning environment
+approach participatory design design process serious game assist learning hospitalized child
+recommendation approach consuming link open data
+importance socio resource software ecosystem management
+patent information visualization use medium dissemination leverage innovation
+death television birth digital convergence medium century
+information strategy management
+social media intelligence business
+three modeling solidification alloy
+role film thickness modeling grain envelope
+cognitive radio based connectivity management resilient end end communications
+drive dissemination time video network
+analysis bike sharing system
+two heuristic minimize permutation flow shop
+water balance systematize literature review protocol
+shift change bedside health staff family literature review protocol
+security preparation patient discharge process review literature protocol
+site infection literature review protocol
+vein thrombosis associate surgery literature review protocol
+mobilization bed care disease prevention literature review protocol
+patient safety catheter infection prevention central review protocol
+conscience ventilation literature review protocol
+monitoring test result proposal protocol nursing
+fire prevention review literature
+use message improve student participation course
+method automate provisioning cloud base component orient business application
+cloud datum application transport
+digital factory system manufacturing network support network product development
+data services correlate semantic
+impact source code software power consumption
+big data collections services building intelligent transport applications
+source approach watershed delimitation support flood monitoring
+ward identity chiral gauge theory
+performance analysis global software development teams
+estimate term domain relevance term frequency disjoint corpora frequency
+combine search algorithm service restoration scale distribution system
+feasibility type recognition use computer vision pattern recognition
+parallel programming simulation model base individual
+node depth base encoding span tree representation algorithm part pron proposal analysis
+method drinking water alkalinity total hardness analyses
+consensus graph cluster algorithm direct network
+heuristic plant lot sizing problem period item
+use linked data principle management scan document
+use taxonomy privacy identify activities find social networks term use
+robustness generate fuzzy co implication co implication case study
+translate control graph grammars ordinary graph grammar
+approach control cascade amplifier
+propose specification
+estimation highway traffic service level base module intelligent transportation system artificial intelligence
+model use linear polarization conversion antenna array
+data communication survey applications challenge
+vehicular networks
+combine energy bandwidth approach allocate software define network
+bandwidth aware allocation resilient virtual software define network
+software define architecture advanced guarantee mobile service transport
+software define management edge service networks
+toward software define battlefield networking
+forwarding mechanism network
+design one dimensional structures periodic inelastic material
+damp contact duration relation spring contact model
+amplitude frequency relationship obtain use approach oscillator sum integer order
+strategy feature selection high dataset
+categorize feature selection method label classification
+mathematical model simulating application integration solution academic context university
+study petri nets chains theory mathematical languages aim simulation enterprise application integration solutions step
+extreme learning surrogate models multi objective optimization base decomposition
+adaptive differential evolution protein structure prediction problem
+development evaluation dataset testing ids wireless networks
+probabilistic method use robot environment analysis method simulation
+new approach manage lessons learn process groups ballistic 20 model
+target collaborative model base social media support management lessons learned project
+hybrid edit
+heuristic edit problem
+profiling reveal alteration cell isolate bone marrow newly diagnose type diabetes patient
+chloroplast genome sheds light evolution gene complex terrestrial carnivorous plants family
+signature characterize caste activity queen worker honeybee pis
+gene candidate progression cell carcinoma
+induced magnetic fields component tsunami wave propagation
+noon time bite electron density around anomaly crest location sector condition case study
+activity variation layer stratification near region
+formation irregularity southeast 2015 st day storm
+storm effect space weather event march 2015 sector
+evaluation machine learning techniques human activities recognition digital education context
+apply modeling time task allocation multiple heterogeneous processor problem
+trend model network case study operate zone identification incorporation cement clinker
+information estimator variable apply feature selection classification problem
+image matching apply navigation vehicle
+multi objective decision machine learning
+vulnerabilities classification safe development android
+ontology software behavior
+comparison acceleration data structures high quality fast reflections deformable models animations
+time reflection rendering scene
+value bound zero force number
+selection multivariate analysis show similar results evaluation growth carcass traits beef cattle
+classify sanction design sanctioning process model socio system
+simulate protection racket case study mafia
+planning horizon affect decision making epidemic dynamic
+first version surface human computer interface
+view dependency system
+distance proximal point method objective programming
+proximal point algorithm quasi distance multi objective optimization
+signing avatar make education
+video quality assessment base neural networks
+case study development application exist web information system
+convergence big data analysis computer aid diagnosis
+region grow segmenting green images
+gene expression profile blood cell differ woman screening diagnosis
+signal transcript profile development cycle induce camp
+find hit set solution system biology application use cluster
+knowledge integration collaborative environment use supervised ontological alignment
+experimental analysis exact algorithms maximum clique problem
+maximum clique via back
+randomness coordination ultimatum game
+universality correlation ranking university admission examination
+cost search evaluation problem solve network incentive
+approach base syntactic levels language authorship attribution
+first markers develop est application diversity analysis cross species transferability cacao
+clustering base selection exploration compiler optimization sequences
+tinnitus framework model
+criteria resource discovery analysis
+impact operator performance reliability power distribution system
+wavelet neural network base power sigmoid framework image verification
+aptitude peanut west region state
+variability ten day rainfall month sowing soybean winter corn begin state
+effect sow depth presence straw substrate emergence
+evaporation soil water base quantity uniformity crop waste distribution soil
+use network support visually impair people case study
+route planning device
+pron never know journey convince pron
+role model space mapping study motor optimization
+meta model design machine
+self evolution strategy guide neighborhood structure optimization problem
+computationally efficient algorithm rotor design optimization synchronous reluctance machines
+non parametric tests small samples categorized variables study
+rout metric mesh network simulation approach
+repetition subsequence sequence
+span tree path
+clustering point line
+envy pricing problem unit demand market connection network pricing problem
+generation player character massively strategy game
+construction radon curve topic
+constant quantify difference orthogonality type
+property sine function plane
+angle space
+approximations genomes model matrix
+modeling simulation sleep state energy cloud environment
+context aware rout delay disruption tolerant network
+producer consumer collusion attack content centric network
+particle swarm optimization
+distribute energy conservation algorithm process reconstruction error sensor network
+quality service conflict web service monitoring case study
+evaluate rest architecture approach tooling guideline
+interplay things cloud computing mapping study
+comfit development environment thing
+system performance evaluation three tier cloud thing
+systematic review shared sensor networks
+impact capacity discharge rate battery life time model support device autonomy planning
+hardware assisted thread data mapping hierarchical architectures
+affinity base thread data mapping shared memory systems
+model memory access behavior datum mapping
+locality page table thread datum mapping
+quota travel car renter problem model evolutionary algorithm
+analysis luminescence quantum yield ion complex
+cod tree structure decision base classification tree
+complexity scalability time encoder
+base method high efficiency video cod encoding time
+video implication embed system implementation software base video encoder
+distributed filters joint detection tracking sensor networks
+factor associate depression anxiety student study
+method image segmentation skin lesion review
+approach detect skin lesion macroscopic images
+potential ontology interoperability government discuss initiative case
+graph base transistor network generation method design
+towards semi automate assignment software change request
+lift project subgraph induce inequality representative
+convex recolor problem facet experiment
+factor associate delivery labor woman assist public health system datum national survey
+factor associate near miss childbirth postpartum period finding birth national survey 2011 2012
+labor birth care nurse midwifery skill
+artificial neural networks skip layer connections estimate volume forest formation state
+support vector machine estimate volume trees
+information reduce gap characterization image thyroid nodule
+comparative study clustering methods educational data mining
+discovery engagement pattern cluster analysis
+pool sequencing assembly 19 complex sugarcane genome
+unlock community assemblage sugarcane
+sequencing microbe identification community base culture collection
+development reconstruction resolution chlorophyll profile
+turnover rate discrimination fish rear salinity implication movement study
+evaluation influence human personality development software experience report
+contribution teach tool generate visualize map
+design evaluation time operating system cache coherent architectures
+co simulation evaluate acceleration performance fuel consumption vehicle
+measurement wheelchair contact force cost bench test
+economic energy analysis hybridized vehicle means mapping
+particle swarm optimization method estimation parameter case study northeast region
+datum interpolation definition management zone
+protection equipment use construction sector case study city
+optimization management zone delineation use component
+two approach comparison define crop management zone
+assess survivability support power grid investment decision
+almost every graph operator
+intrusion detection system software network
+authentication access control mechanism software define networking
+reverse update consistent policy update scheme software define networking
+resource feasibility study machine migration
+performance two phase scheme data center networks
+algorithm cluster editing
+solving manufacturing cell formation via editing
+run trend time multiprocessor scheduling
+quasi partition scheduling optimality adaptation time system
+mt amp model transformation embedded software
+conditioned air flow coordination data centers arrangements simulation computational fluid dynamics
+propose process optimization four tank control controller use analysis network
+method planning programming production control manufacture cooperative proposal implementation production order model improve industrial process
+image processing identification quantification bacteria situ acquire image
+impact user patience auto scale resource capacity cloud service
+automatic resource elasticity high performance applications cloud
+analysis public clouds elasticity execution scientific applications survey
+formal verification health assessment tools case study
+theory practice development ambidexterity software innovation process
+development decision support system practice self medication
+road network emergency accessibility planning earthquake
+work troop scheduling road network accessibility earthquake
+multiple parenting phylogeny relationships digital images
+pixel level tissue classification ultrasound images
+manifold learning spectral clustering image phylogeny forest
+rate energy accuracy optimization architecture face recognition
+base transformed spaces image forensic
+multi scale perturbation approach filtering detection
+distance multimedia phylogeny
+low false positive learning support vector machines
+pornography classification hidden clues video space time
+behavior knowledge space base fusion copy move forgery detection
+time series base fusion fine grain plant specie recognition
+reconstruction text phylogeny trees evaluation analysis textual relationships
+resilience permutation graph
+software control property protection system
+evaluation histogram orient gradients soft errors criticality automotive applications
+audiovisual tool assessment
+learn identify risk student distance education use interaction counts
+reduce analytical bottleneck domain scientist lesson climate data visualization case study
+treatment stroke characterization host cell infiltrate
+transporter knock mouse inflammation expression sickness behavior induce
+swimming training attenuate damage increase defense rat brain
+combination mutation strategy support test datum generation context vehicle
+match making international joint ventures emerging economy aligning asymmetric financial strength equity stake
+image version control system use
+use simulator ca course exploratory analysis assess student perception learning
+computing pump scheduling optimization water supply system case study
+optimizer box simple economic optimization power dispatch small use
+detection contribution subjective evaluation sound
+pattern extraction use relevance community network
+imputation method via attribute base decision graphs
+semi supervised classification particle competition complex network edge
+network unfolding map vertex edge dynamics modeling
+boost docking base virtual screen deep learning
+fluctuation analysis spatially extended digital surfaces classification process noise performance
+vehicle rout nonuniform speeds
+noise detection meta learn level
+ensemble label noise filter approach
+monitoring non linear ground movement open pit iron mine base integration advanced techniques use data
+framework music improvisation performance body instrument body mind connection
+sound composition computer aid composition systems extended music techniques
+classification wooden housing building systems
+noise luminance vibration non ionizing radiation evaluation sawmills
+building approach
+enhance constructive neural network performance use functionally expanded input data
+computation swarm intelligence inference gene network
+optimization descriptor leaf shape analysis
+two level field road network extraction application datum
+review device environment
+web base step architecture cost part manufacturing
+prognostic base echo state network optimized artificial bee colony 043
+design apply development system monitoring machine 057
+information visualization emergency management mapping study
+variation incidence tuberculosis states region
+tuberculosis new cases healing abandonment relation level education
+ambiguity polymorphism
+define effectiveness use finite sets study computability
+support improvement processes decision making university
+comprehensive analysis first ten edition conference
+feathering effect detector base local average value
+world approach drama play limit
+annotation survey
+comprehension toxicity vibrio use structure activity property relationship method
+heterogeneity consideration semi learning
+sample method regime epidemic process network
+versus hub activation phase network
+solution sum problem
+student line model student interaction improve learning experience
+conceptualization domain specific simulator requirements
+motion driven tonal stabilization
+tool assist development linguistic abilities
+teach electromagnetism image simulation telecommunications technical course
+energy position identification payoff matrix variability analysis
+rank procedure discrimination
+model cluster datum dissimilarity
+development component base system use component pattern
+evaluation complexity nonlinear constrained optimization use unscaled conditions order model
+acquisition processing brain mapping chess problem solve
+architecture manufacturing framework transconductance amplifier design
+socially inspire energy feedback technology challenge develop scenario
+base wearable face recognition system aid visually user
+density measure diversity concept address network
+network analysis strategy monitor dissemination information hospital
+model improve learning curves artificial neural networks
+stock market volatility prediction use
+evolve analytic interval time series forecasting
+evolution algorithm yield curve estimation
+weighted centrality potential replica relocation
+educational medical serious game
+vertex cover generalized random graphs power law degree distribution
+investigation rat exploratory behavior via evolve artificial neural networks
+phase transition self organize criticality network spiking neuron
+decomposition system time series forecasting
+system dynamic model evaluation reuse waste originate computer
+two phase slug flow characterization use artificial neural networks
+note algorithm vehicle rout problem
+base two echelon routing problem
+decomposition algorithm nested resource allocation problems
+experimentation simulation model software engineering planning report guideline
+network parameter architecture selection quantum computer
+chaos quantum weightless neuron node dynamics
+exchange rate entropy evolution crisis
+quantum field network architecture selection quantum computer
+comment quantum network applications
+effect concern mapping strategy cohesion measurement
+construct covering array sequence field
+field construction array
+normalization graphs via sub graphs
+formalization pump lemma context language
+digital content cloud base contract union
+propositional equality identity types paths
+parallelization image smoothing method base model
+gov web gov mobile
+web application mobile application social health care data management
+formal verification space system user interface ivy workbench
+power server consolidation cloud
+study configuration relate issue investigate identifier
+detect grading severity spot cause tomato field use spectrum image
+regional hour ahead forecasts solar training data selection support vector regression
+survey contract optimization use evolutionary swarm computation
+clinically relate gesture recognition tool rehabilitation system
+leaf disc method screen wilt resistance cacao
+association mapping incompatibility gene cacao cacao
+evaluate laws software evolution within software product lines industrial projects
+expert system validation credit education institution
+gov web gov mobile international journal web information systems
+methodology traffic relate twitter message interpretation
+combine means harmonic fish school search algorithm datum cluster task graphic processing unit
+service desk software usability evaluation case national cancer institute
+extend adaptive programs specify adaptive functions
+model datum extrapolation greenhouse gas emission system
+track mobile devices mapping study
+depth assist rectification time object detection pose estimation
+learner modeling adaptive educational systems comparative study
+uncertainty modeling process technology
+non intrusive technology
+propose use non intrusive technology ticketing public transport vehicle pass integrating mode
+applied bus rapid transit
+power line communication alternative data communication channel
+consideration quality life work driver bus rapid transit
+logistics monitoring use
+survey programming languages towards taxonomy
+entropy base bone particle swarm optimization
+agile method development open educational resources
+network approach cloud computing
+publish subscribe architecture deliver assistance visually people
+authorship methodological artifact apply virtual worlds education
+face detection recognition color images
+web environment programming control robot laboratory
+analyze implications weber counting fungi spores
+setting similarity threshold content base information retrieval problem
+evaluation interest point matching methods projective reconstruction scene
+exploit performance power energy scale system simulator
+ford model coefficient application reference system phase energy calculation
+benchmark level evaluation multiprocessor system chip tool methodology
+lessons learned using computer architecture laboratory
+fault injector network
+optimization taxi cabs assignment use geographical location based system offer demand scenario
+bank controller thruster fault control vehicle
+evaluation mitigation radiation induce soft errors graphics processing unit
+towards self organize process reschedule bulk application
+forbid subgraph intersection number
+legal aspects collaborative production open digital resources
+global software engineering industry perspective
+future software engineering
+trend agile perspective practitioner
+adapt framework agile distributed software development
+assess effectiveness service composition
+design rectangular fin intruded different surfaces forced convective lid drive cavity flow
+six gem history distance geometry
+gradient method optimization density matrix
+assign distance geometry application molecule
+note sum eigenvalue
+family test selection criterion timed input output symbolic transition system model
+intrinsic plasticity natural competition like neural networks
+estimation expect number accident workforce unavailability population variability analysis base model
+mixed equilibrium normal form games burn money rational
+co authorship network analysis productivity research fellow probability statistic area
+mining term recognition resolution
+implement government processes distribution transparency use multi agent systems
+leadership practice study
+lab free software calculate energy system contributions exercise
+series service composition
+pairwise clothing annotation combine feature medium
+rhythm representation fine grain plant specie identification
+orientation cacti
+artificial neural networks simulator topology multilayer use framework
+embed system platform control support grain aeration decision
+achievement allocation network use assignment algorithm
+complementary treatment children cerebral palsy base reality
+self organization supporting paradigm relay networks
+organization protection mechanism cloud storage service
+expected utility prospect theory fit agent base modeling market
+interpolation type datum computation crop yield map precision crop production
+variable quality management zone
+nursing informatics research priorities future recommendation international survey
+trends nursing informatics result international survey
+advance nursing next decade recommendation international survey
+functional duality wasp venom peptide toxin
+study protein fusion death domain hybrid enhance activity
+insight silk spinning process spider
+evaluation connectionless technique system chip interconnection
+overview networks chip support
+regulation cost estimation decommissioning sample fix offshore platform
+threshold base wavelet transform apply segmentation power quality disturbance
+efficient model short term load forecasting
+variability model software artifact
+uncover pattern space use animal tracking datum include algorithm randomization test
+draft genome sequences two pathogenic specie isolate cows
+genome sequence strain 226 isolate abscess goat
+draft genome sequence strain 03 8664 human throat
+genome sequence strain host amazon
+cluster datum machine learning
+approach suggest software product line portfolio
+ant colony optimization apply problem choose combination among combinations shortest paths transparent optical networks
+scale function two neutron separation energy 20 range potential
+three dimensional evolution interactions use iteration
+relativistic three body bound state three dimensions
+matrix calculation quark bind state
+live register fencing
+two dimensional wavelet analysis margins human skull characterize sexual dimorphism
+note field role datasets transitional justice research case truth commission
+construction gazette
+proposal cost technique monitoring body temperature application work safety
+object recognition use saliency guide search
+handover reduction cloud radio access networks use optical
+use checklist requirements revalidation legacy software case study
+integrated platform distributed resources monitoring software age mitigation private cloud
+software aging issues streaming video player
+grasp web service guide sensitivity analysis
+cloud face recognition base cloud ranking
+hydrochloride development new orally active inhibitor anti property
+series hybrid synthesis cholinesterase activity secretion modeling approach
+study test generation beta
+congestion control disruption tolerant networks comparative study interplanetary terrestrial networking applications
+value ultra dose chest ct iterative reconstruction selected emergency room patients acute
+ct dose reduction use automatic exposure control reconstruction chest phantom study
+dose reduction reconstruction detector ct impact deformation structure study
+impact calibration condition film peak skin dose measurement radiology
+decision making patient lobe epilepsy gratification ability impair patient sclerosis
+ultra dose chest ct reconstruction alter image quality
+assessment patient peak skin dose use films cardiology procedures routine experience feedback
+brain processing decision making degree relative suicide completer
+trust banking condition information asymmetry evidence
+effect information technology corporate social responsibility empirical evidence emerging economy
+role reality learning process individuals intellectual disabilities
+change impact analysis approach base metrics visualizations support evolution repository
+cloud architecture multimedia information retrieval service
+software startups research agenda
+model learn object adaptation light context computing
+use computational geometry improve process reschedule round base parallel application
+impact thresholds load patterns executing applications cloud elasticity
+20 recommender system accessibility
+food allergy risk detection model base situation awareness
+name name resolution introduce approach
+exploit data parallelism systems implement fractal image compressing problem
+assessing idioms feature time
+shape base pedestrian segmentation still images
+computing progress developing countries
+detection global local motion changes human crowd
+dynamic selection forecast combiners
+comparative scenarios use road road rail transporting bulk sugar export port
+status impact acupuncture research analysis global scientific output 2000 2014
+evolving approach time fault detection industrial processes
+hybrid analysis indicating patients breast cancer use temperature time series
+combine model time series forecast memory time series
+stock market forecasting use model time series
+certificate programming base criticality condition
+multi robot deployment environment
+approach robot motion planning search task
+erratum algorithm multi depot vehicle rout problem
+smart pool search solve multi objective storage planning problem
+storage planning system inside scope city
+generic search optimization target offer bi marketing campaign
+pro hazard analysis automation process apply space systems
+reliability evaluation distribution network include islanding dynamic
+model represent correlated time series reliability evaluation non sequential simulation
+health surveillance software framework deliver information preventive strategies
+survey job profiles biomedical graduate
+performance indicator community base publication profile
+workload models performance evaluation cloud storage services
+impact content sharing cloud storage bandwidth consumption
+characterizing peer community dynamic streaming system
+three dimensional maps equatorial diameter fruit juice yield orange orchard
+technology parks strategic capacity evaluation structure framework proposal implementation
+operator coefficient algorithm describe texture breast cancer tissue
+span drop wedge variable angle
+interactive program weighted steiner trees
+performance analysis algorithms removing salt pepper noise
+base analysis lung lesion ct purpose
+texture analysis mass mammogram image use combine approach diversity index pattern distribution
+taxonomic index differentiate malignancy lung nodule ct image
+computer aid diagnosis system lung nodule base compute tomography use shape analysis algorithm
+lung nodule classification base computed tomography use taxonomic diversity indexes
+shape analysis reduce positive lung detection system
+drainage network watershed delineation derive tin base elevation model
+towards measure change impact model transformations
+semi couple methodology motion analysis float production system
+loss change number wave group problem
+eucalyptus private clouds availability modeling sensitivity analysis
+analysis distance function similarity base test suite reduction context model base testing
+prioritizing test case detection fault
+modification coverage similarity base test case selection
+draft genome assembly bloom form strain shrimp production ponds
+multi objective optimization multimedia embedded systems use genetic algorithms stochastic simulation
+embed system approach energy monitoring analysis process
+detect inconsistency multi view models
+towards architecture integration feature models
+behavior steel without forging condition processing map analysis
+evolution platform concept systematic review
+development testing image processing algorithm estimate weed infestation level corn field
+identification weed sugarcane field image take random forest classifier
+gene expression underlie phenotype determination honey bee caste development
+semantic approach compliance validation service orient architecture
+survey measures methods match vector dataset
+multi focus proofs different polarity assignments
+use artificial neural network optimize osmotic dehydration process cashew
+analysis guava quality image processing
+collaborative virtual environment training teams emergency situation
+applicability computer system clinical cases base evaluation medicine courses
+novel virtual environment alternative treatment children cerebral palsy
+multi criteria model information technology infrastructure problems
+model support early diagnosis breast cancer
+towards applied hybrid model requirements
+advance brain signal analysis methods application
+algorithm solve problem
+segmentation retinal blood vessel base ultimate elongation opening
+intelligent vision base system apply visual quality inspection beans
+combine genetic algorithm constructive refinement heuristics solve vehicle rout problem
+note notch shape optimization minimize stress concentration effect
+unified rule estimate notch stresses strain phase proportional loadings
+hierarchical distributed fault tolerant proposal base
+hierarchical energy monitoring task mapping core system
+clock generator globally locally
+design content delivery network vehicle
+gesture recognition prediction system use convexity approach
+use case tools transformation geographical database
+successive geometric segmentation approach apply double circuit transmission lines fault classification location
+optic disc detection retinal images use algorithms committee weighted voting
+effectiveness pure electric vehicles use hybrid approach
+potential energy grid policy implication study
+objective approach assess energy environment trade
+overview electricity prepayment experience framework
+uniform strong primeness fuzzy setting survey
+properties uniformly strongly ideal
+flag algebra glance
+sparse sums positive semidefinite matrices
+oil selectivity froth flotation
+limestone briquette production characterization
+influence jig pulsation frequency magnetite concentration
+temperature influence cornstarch froth flotation
+dissection saturation interpret relationship phenotype change protein stability interaction activity
+tuberculosis whole sequencing protein structure provide insight anti tuberculosis drug resistance
+interaction tract bind protein peptide ligand contain protein
+quantify effect mutation protein molecule affinity disease emergence drug resistance
+variation human cytochrome drug metabolism genes gateway understanding relapses
+presence persistence functional properties binding protein ii antibodies influence class ii variant
+web server assess compare protein molecule affinity
+ab web server predict antigen affinity change upon mutation graph base signature
+case sum requirement communication span tree problem
+enhance fairness cloud federation
+technique provide differential privacy appliance usage smart metering
+approach base algorithm damage detection bridge
+genetic base algorithm improve robustness mixture model damage detection bridge
+framework datum compression damage detection health monitoring apply laboratory three story structure
+expectation maximization base swarm optimization damage detection
+perceptions emergent storytelling
+2016 humanitarian robotics automation technology challenge
+change management implementation benefit change control information technology environment
+sepsis study prospect research
+plague disease
+family health strategy bioethics focus group discussion work training
+issue strategies improve usability learning object repository
+mining models automated quality assessment learning object
+identify plant disease use image processing
+operators improve multi objective evolutionary algorithms designing optical networks
+viability prototype platform monitoring system case study
+numerical modeling air pollutant emit waterway transportation
+modeling plankton network
+occurrence emergency disaster analysis accord precipitation amount
+trajectory pollutants associated aircraft emissions air quality assessment
+explore network plankton
+algebra fault
+search method solve memory influence diagram
+self map base occlusion
+test coverage impacted code elements detect refactoring faults exploratory study
+beyond cross section
+precipitation climate prediction south region artificial neural networks
+modeling beams discrete superpositions generalized theory calculate optical forces spherical dielectric particles
+cell spotting outcome cell biology citizen science project classroom
+health records storage systematic review
+bridge navigation policy offshore oil gas operations standards
+network topology affect network embed quality characterization study base network
+provide network performance scale enable cloud platform trust base allocation resource
+expect predicate analysis predicate world program
+use hierarchy process approach prioritize policy address family farming
+triangle method estimate fraction soybean crop
+mapping region vibrate plate edge condition intensity
+new framework distributed maximization
+improve knowledge acquisition collaborative knowledge construction tool catalyst
+transfer weight function inject problem information objective es
+forecasting model disaster
+infection time geodesic convexity
+modular architecture recommender systems apply commerce
+multi engineering variability feature model base code dependency system variant
+leaf epidermis image identification plant
+classification automaton texture analysis
+evaluation link content base treasure crawler
+intrusion detection prevention architecture grid ecosystem
+fix local branch fix charge network design problem user flow
+perturbation measurements degree naturalness synthesized vowels
+key agreement protocols strong models
+performance evaluation physical systems
+learning simulation emergency course participant perspective
+review label feature selection method base construction
+prototype system feature extraction classification study image
+reliability survivability analysis data center network topologies
+test time embed system use level architecture
+simplified immunoassay dengue diagnosis reveal insensitivity bind interference
+goal orient requirement engineering framework runtime dependability analysis
+machine learning cryptographic algorithm identification
+analysis indicator accord law
+active learning data manipulation techniques generate training examples meta learning
+swarm train prototype classifier feature selection interval datum
+context approach model reuse machine learning
+automated extraction product comparison matrices informal product description
+unsupervised retinal vessel segmentation use combine filters
+class feature extraction technique datum
+level video representation base descriptor case study pornography detection
+approach pseudo resistor
+base mos pseudo resistor new use characteristic
+classification system environment overview
+accurate model network chip performance evaluation base timed colored petri net
+requirement design application invasion detection control
+exploratory analysis failure causes mass market operating system
+optimization two granularity software rejuvenation policy base regenerative process
+routing protocol communication base transport backbone
+number graph
+coloring generalize graph
+ratio weight matching weight matching grid
+cost perfection matching graph
+relationship care heart failure
+approach recommendation learning object consider student learn style analysis
+color channel adjustment clone base modulation
+preserve geometry topology flow obstacle gap
+rout protocol network
+gesture phase segmentation use support vector machine
+use collaborative filter algorithms predicting student performance
+systems sentiment analysis tweets
+methodology software vineyard
+characterization dormancy associated mads box gene bud dormancy progression apple
+approach base fuzzy means band selection images
+children snacks ad consumer sovereignty
+toward unified modeling learners growth process flow theory
+geometry software pron affect student performance
+peer assessment model line learn environment context
+peer assessment line learn environment work review literature
+interaction interface geometry software pron explore device possibility
+computer base system automate design learning scenario literature review
+ontology framework apply scenario persuasive technology
+semi system evaluate performance scalability
+speed quantitative parameters glottal area waveforms speed healthy individuals
+step towards model bridge gap personality traits collaborative learning roles
+carbon content model organic carbon regeneration
+comparison 30 burst time development microwave go ray
+rt software simulation base code
+machine customization task mapping architecture efficient allocation cloud data center resources
+resource demand prediction allocation tenant service cloud
+cost auto scaling system web application use spot instance
+order finite element base
+modeling simulation landfill use feel
+three element approximation enhance accuracy
+computer aid detection diagnosis system lung cancer likelihood malignancy
+time detection base redundant discrete wavelet transform
+multi agent architecture monitoring tutoring activities
+simulation via artificial neural networks mechanic behavior analysis steel 430
+graded incoherence accuracy
+distribute strategy robot recruitment swarm base system
+efficient strategy collective navigation control swarm robotic
+wave algorithm apply collective navigation robotic swarms
+approach decision make distribution supply chain theory constraint perspective
+approach improve health care service
+analysis interplay sustainability knowledge management innovation
+factors influencing door doctor time emergency department discrete event simulation model
+hospital bed management analysis perspective theory constraint
+exception handle bug hazard android
+use information predict co change
+pulmonary detection ct image survey
+voltage regulation distribution grid distribution generation assist telecommunication infrastructure
+min heap base scheduling algorithm approximation algorithm distribute system
+apply machine learning technique scale datum quality algorithm cloud computing environment
+fine grain load balancing technique improve partition parallel base ontology matching approach
+towards parallelization pass blocking entity matching
+body sensor network simulation platform medical applications
+wearable ecological field research applications
+building wearables geology
+avoid code pitfall aspect orient programming
+depletion force obstacle induce matter
+hybrid evolutionary algorithm truck dispatch open pit mining
+clustering base report generate
+software architects scale distribute projects case study
+software engineering taxonomy
+method predict islands base mean shift clustering algorithm
+improve solution node location algorithms wireless sensor networks
+landscape reveal arrest stage liver differentiation cancer relate alteration
+experiment two algorithm maximum algebraic connectivity augmentation problem
+survival analysis life use hazard model
+optimize loop dynamic
+cross layer rethink sensing multi channel cognitive radio networks
+optimized flow allocation vehicular cloud
+source base routing wireless mesh networks
+stable base routing protocol urban vehicular ad hoc networks
+cross layer design sensing frame duration radio network
+shift data set term power load forecasting day
+principle semantic warrant study language reflections
+cloud crawler performance evaluation environment infrastructure service cloud
+analyze impact radiation induce failures programmable socs
+reliability arm processors errors techniques
+conversion prostate small cell carcinoma reprogramming
+quantum object orient language
+interpretation quantum fuzzy computing fuzzy operations quantum operators
+cloud resource management drive profit augmentation
+localization resolution satellite image assist visually impair people
+fully decentralize mechanism sensor node
+strategy build ensemble cluster validity criterion
+beyond relevance explicitly promote novelty diversity tag recommendation
+predict level cooperation peer peer streaming application
+start tag recommendation
+prediction popularity trend user generate content
+aggregate fuzzy conjugate dual construction
+quantum computing simulation reduction decomposition optimization case study algorithm
+aspect base sentiment analysis use semi supervised learning bipartite heterogeneous network
+effect temperature humidity similarity bowen ratio deviation mass transfer coefficient lake
+feasibility optimum path forest context things base applications
+evaluation restricted machines identification
+clustering multivariate data streams correlating attributes use fractal dimension
+processor application assessment design space trade
+low power low area error detect latch resilient architectures 28 nm
+base algorithm discovery flock patterns trajectories
+use application specific policy dive vector approximations
+information geometry simulation complexity field
+ram energy approach cloud datum center
+anchorage fusion contribute inheritance quality control bud yeast
+effect saturation hydrocarbon chain length ability synthetic constrain trigger nutrient transporter regulation vacuolation cell death
+growth develop brain
+applicability motor rehabilitation system stroke victim
+adapt finite element type solver deep platform
+interactive learning rank overview advances challenge direction
+implementation generic methodology problems device
+time action recognition use multilayer descriptor size
+combine ranking rank aggregation method image retrieval
+correlation graph approach learning image retrieval task
+graph base rank list model distance learn shape retrieval
+distance learning plant species identification
+protein subfamily detection use data integration spectral clustering
+information theory perspective network robustness
+time index formulation time heuristic dock truck scheduling problem cross docking
+approach solve production planning scheduling problem cargo terminal
+time series characterization via visibility graph information theory
+model scheduling charge casting application steel plant
+intelligence technique couple seasonality measure condition
+query expansion base programming visually orient commerce application
+beyond relevance
+analysis effect text classification
+benchmark comparison state practice sentiment analysis methods
+enhanced template update application keystroke dynamics
+feasibility check distance geometry problem application conformation
+co authorship network analysis health research method use
+clock tree aware incremental timing drive placement
+patient modeling driver analysis
+environment data collection analysis use computers education
+innovation restructuring strategy case study multipurpose public organization health
+method estimating construction cost building base experience
+budgeting civil construction works linear correlation assigned market cost reference cost
+main project management problems face small medium sized civil construction enterprises
+approximation scheme class risk equilibrium problem
+use machine learn support professional make decision
+distribute stream processing framework
+characterization application service oriented design principles practice systematic literature review
+approach code annotation validation location transparency
+evolution documents variability project life cycle preliminary study
+interest centric protocol kernel level
+optimized design scan cell
+grain uniform energy efficient delay element bundled data circuits
+apprentice identify groups difficulties programming education use data mining
+approach base linear regression stock exchange prediction case study
+use sentiment analysis stock exchange prediction
+optimization label propagation network improve classification text
+use reality reduce work accident developing countries
+base method estimation vivo human liver
+image access environment resource
+base algorithm efficiently process keyword query stream
+top preserve query processing use two tier index
+color texture apply signature base bag word method image retrieval
+find seed bootstrap crawler
+measure characterizing avoiding traffic cost
+methodology identify sources acting concert
+visualize interact data
+manifold learning approach personalizing anthropometric features
+improvement forecast time series
+find order differential invariant
+method mapping forecast
+learn anticipate flexible choices multiple criteria decision making uncertainty
+test prospect strain potentiality enzyme production
+use link open data geographical information systems
+knowledge management system financial performance relation measure
+precision agriculture use cost systems acquire low altitude images
+data fusion techniques apply takeoff landing procedures case study
+note complexity ordering problem
+framework automation slater file parameterization
+game difficulty balance time use evolutionary fuzzy cognitive maps calibration
+platform human genome support clinical decision
+revisit software engineering social
+margin algorithm classification norm
+method solve prediction problem
+search placement tiered cache networks
+rout strategy base network bus transportation system
+inhomogeneous space time patching model based nonlocal nonlinear equation
+quintessence model jerk structure variability constraint
+see authentic assessment model base software engineering education
+base model predict water content phase formation gas system
+interval value aggregation use order application decision making
+admissible orders interval value fuzzy membership degrees
+web base ecosystem software transplant program
+distribute computing big data application
+survey simulation mobile ad hoc communication disaster scenario
+analyze behavior dynamic grain price index use tucker tensor decomposition trajectory
+evaluation impact campaign network performance indicator website group buying
+dose calculation model application indoor exposure two layer wall gamma irradiation case study ceramic tile
+assessment clay
+designing service base application presence property mapping study
+investigate relationship test scores quality productivity indicators scrum environment
+edge coloring natural model sports scheduling
+algorithm maximize number accept network
+heuristic generalize graph problem
+formulation interference problem ad hoc network
+identification management debt mapping study
+analysis mapping element method
+relationship equitable coloring range coloring graphs
+model management virtual networks environment
+assessment expert panel
+analysis criteria context fir channel equalization
+introduction information theoretic learning part pron foundation
+source separation fundamental perspectives fields sparse signals
+novel secure mobile ad hoc networks
+design communication infrastructure base thing transport system
+physics microeconomic base metric evaluate cloud compute elasticity
+design software development kit implement integration solution
+automated design multi layered web information systems
+analysis asset specification languages representation descriptive data artifact
+strategy fix degenerate means solution
+applicability assessment model information system hospital
+towards pragmatic interoperability support collaboration systematic review mapping literature
+trace software evolution traceability support tool
+planning architecture support software maintenance activity planning
+deal multiple requirements geometric arrangements
+boundary detection particle base fluids
+depth function quality measure steer projection
+star coordinate approach data exploration
+accuracy time processing evaluation cover song identification systems
+conformational selection induced fit mechanisms binding anticancer drug
+learn object development process
+procedure detect suspect pattern behavior vehicle emission test perform inspection body
+evaluate use adder compressor power interpolation filter architecture
+integrity verification election result
+system toolkit reference architecture
+fusion time series representations plant recognition studies
+model plant database blend surface ground observation
+tensor scale descriptor within sector shape retrieval
+walk health system
+modeling design method apply behavior improvement steel plate buckling
+design pron shape pathway cool heat generate medium consider contact resistance
+numerical evaluation effect type shape perforation buckling steel plate mean design method
+geometrical evaluation resin infusion process mean design
+study buckle phenomenon thin steel plate employ modeling design method
+transient models analyze influence air velocity ducts diameter performance earth air heat exchangers
+numerical study different closure approaches prediction forced convective turbulent cylindrical cavity flows
+performance analysis low cost cluster parallel applications arm processor
+game teaching computing higher education systematic review
+usability score mobile phone applications base heuristics
+evaluate educational games systematic literature review
+analysis loss flow accident hypothesis plate type fuel surround two water channel use code
+human pose estimation monocular images comprehensive survey
+decomposition rank plus matrix background foreground separation review evaluation scale dataset
+matrix tensor completion algorithm background model initialization evaluation
+index susceptibility drought semiarid northeast
+efficient external memory algorithm terrain computation
+point location query use grid
+probe problem versus dichotomy
+analysis contour graph
+equality domination tree
+average domination domination
+dominating set induce component
+star edge coloring
+sorting strategy neighbor search
+potential semiarid soil source mining degrade enzyme
+social network analysis mining monitor identify problems scale information communication technology interventions
+concentration access information communication technologies municipalities legal amazon
+approach evaluate scale training intervention
+long term training brain machine interface based gait protocol induces partial neurological recovery paraplegic patients
+assimilation leg perception floor texture patient receive tactile feedback
+slap storyboard language animation programming
+characterization delay disruption network amazon basin
+comparison clustering algorithms identification topics twitter
+target tracking sensor networks
+compare support vector machine approach area classification
+examine region base method land cover classification use distance
+data evaluation land use land cover mapping amazon region
+model time reactive system language requirement
+track ram weightless neural networks
+apply datum mining technique distribution analysis plant specie co occurrence
+buzzword detection scenario
+role base model interaction systems dialogue management
+model learning objects recommendation use similarity sessions
+exploit technology enhance health smart homes identification emotion recognition
+fine tuning control rules spray pesticides crop fields approach environment
+complexity weakly chordal graph graph clique size
+linear time graph distance diameter approximation
+note level problem
+upper bound rectilinear crossing numbers cube
+orient coloring planar bound degree orient graph
+parameterized complexity dichotomy vertex deletion
+complexity minus domination
+introduction data mining apply health orient database
+kernel base method weighting variable
+guest editorial special issue granular symbolic data processing
+algorithm interval value datum weighting variable
+child use day nurseries facility associate risk sucking habit
+network formation algorithm bus rider
+effectiveness engagement student
+digital scout case study men selection
+bridge database applications declarative similarity matching
+resolution problem time computing
+approach singularity inverse kinematic use error chain method
+data mining approach standardization collectors names database
+design area energy fir filter adder circuit
+simulator minimally invasive vascular interventions hardware software
+hand gesture recognition depth datum cave application interaction
+climate information risk monitoring opportunity challenge
+analysis capacity vector bear disease use moment generate function
+health monitoring methodology damage isolation base arrangement
+view machine learning datum analysis practice load forecasting power system
+valuation manage region state
+flexible architecture selection visualization information emergency situation
+parallelization closure algorithm generate minimum set implication rule
+space time bifurcation lines extraction coherent structures
+computation method schedule pipeline network
+numerical study concern thermal response theory
+technique antenna design base spider optimization algorithm
+communication optimization base analysis
+synthesis human skin pigmentation disorder
+define priority zones conservation protected area
+energy potential biomass cultivate use meat processing plant
+analysis apply landslide susceptibility mapping
+soil greenhouse gas emission ammonia volatilization plant growth
+potential biomass rate algal pond production
+adoption higher education institution
+file transfer log analysis datum center case study
+enterprise information integration
+mapping knowledge base use exchange sample
+time series clustering via community detection network
+algorithm detection orientation estimation structure scan outcrop
+distribute localization swarm system use swarm intelligence algorithm
+efficient distribute algorithm task assignment swarm robotic
+particle dimension cooperation orient parallelization strategies efficient high dimension problem optimizations graphics processing unit
+massively design base network image classification
+distribute localization swarm robotic use min max particle swarm optimization
+parallel yet pipelined architecture efficient implementation advanced encryption standard algorithm reconfigurable hardware
+implementations particle swarm optimization core multi core architecture
+evaluation magnetic permeability characterization duplex stainless steel
+measurement technique base balloon active contour method
+numerical evaluation temperature field residual stresses steel weld joint use finite element method
+induced magnetic field detect sigma phase 2205 duplex stainless steel
+embed time speed limit sign recognition use image processing machine learning technique
+classification induced magnetic field signals characterization sigma phase duplex stainless steel
+detection magnetic easy direction steels use induced magnetic field
+landscape complexity affect cover richness weed environment
+threshold effect loss bat richness forest landscape
+landscape influence habitat occupancy endanger maned sloth within landscape
+landscape effect occurrence order stream
+effect land cover movement birds heterogeneous landscape
+ecosystem services modeling tool defining priority areas conservation
+connectivity maintain assemblage diversity within landscape
+branch bind algorithm euclidean steiner tree problem space
+optimization quadratic
+image segmentation use roughness information
+approach calculate density cast iron graphite use level set
+software network
+teach learning structured knowledge maps analysis new approach
+innovate educational development collective potential thought concepts digital culture
+dissection sugarcane flowering equatorial field conditions
+texture analysis use descriptor estimate interference color channel
+abstraction type system component base performance computing platform
+performance evaluation execution environment computing representation array
+space ranking accelerate sort ranked lists step system
+prediction emissions fuel consumption city bus real operating conditions means biharmonic maps
+quantum mechanics signal tune approach striate cortex
+generalized signal tune approach signal representation analysis
+facial expression recognition neural networks cope data training sample order
+scale mapping field scenario use car
+finite element method spectral green function slab geometry neutron diffusion multiplying media one energy group
+optimization use gradient
+proposal evaluation index delimit map water body use image satellite
+tight bound number twin graph
+design methodology workload loop scheduling strategy base algorithm simulation
+evaluate see sensitivity 45 nm multi core processor due 14 neutron
+wave propagation simulations power performance centric
+systematic review search based mutation testing
+wireless scheduling multiple data rates physical interference disk graphs
+compute big datum cube memory
+software manage transformer use device
+use system tool detect concept drift datum stream
+monitor stator induction machine possible fault detection fuzzy approach problem time series multiple change point detection
+fault classification approach apply benchmark process
+dynamic programming approach class robust optimization problems
+expand vision university case study
+information management processes extraction student dropout indicators courses distance mode
+convergence implications energy complex systems
+explore quality measure evaluation feature model case study
+characteristic measure computer interaction evaluation system
+training model use cadaver without establishment
+revision banded en gastric bypass pouch resizing redo anastomosis ring migration pouch dilation
+probe trace level solution test sample lab toward sample tap water
+layer layer thin film iron fast sensor determination tea sample
+proposal set protein structure
+analysis transcription factor co network hypertrophy
+data mining apply molecular docking experiment
+use ontology retrieve health evidence information note
+issue develop cloud application definition concept approach requirement characteristic evaluation model
+analysis factor determine software product quality study
+linear mesh network planning power transmission line management
+toward well found theory level modeling
+delete secret data public verifiability
+model clouds risk analysis information assets context
+framework risk assessment approaches risk base access control cloud
+model managed elements autonomic cloud computing management
+finite element analysis pipes axial compression influence sample length
+representation graph
+system integrated visualization oil exploration production
+issue journal medical systems 2016 agent empowered systems
+scientific knowledge engineering delineation overview state art
+study free radicals gamma irradiate cellulose cultural heritage materials use electron resonance
+improvement learning algorithm convergence intelligent tutoring systems search
+estimate accurate water levels rivers reservoirs use products analysis
+classification detected changes multi temporal high res images intensity texture descriptor
+descriptor soybean disease recognition
+texture recognition base diffusion network
+application measure damage cause insect
+insight alpha inhibitor pit viper
+allele parent origin effect expression gene candidate meat tenderness cattle
+0318 gene effect feed intake cattle
+0891 genome model study meat quality cattle
+nucleotide polymorphism associate production trait beef cattle
+strong normalization intersection types memory
+non intrusive planning roadside infrastructure vehicular networks
+neighborhood customer selection vehicle rout problem profit
+iterated local search algorithms euclidean steiner tree problem dimensions
+perspective algorithm solve problem
+cut plane algorithm minimum weight direct cycle problem digraph
+inexact proximal point methods minimization manifolds
+value utility company trigger demand side management light price elasticity demand
+model base predictive control use differential evolution apply pressure system
+adaptation framework android context application
+height estimation approach terrain following flight vision
+calculation force use element solution
+simulation environment polymeric experiment database
+video base system vehicle speed measurement urban roadways
+method clustering problem base density grid concept
+solve problem use biased random key genetic algorithms
+cost antenna design reader use optimization
+unit commitment algorithm model term hydro power generation scheduling
+teach sociology root dialogue book drama film
+medium business intelligence define understand medium intelligence
+understanding factor disengagement within community study
+food security agriculture climate change mitigation strategies scientific production panorama
+characterization graph
+improve semi supervised learning optimum connectivity
+load balance user association
+robust extreme learning machine pattern classification
+analysis ant colony optimization base rout network presence failure
+performance evaluation programmable architecture choice switching paradigm hybrid optical networks
+prune method extreme learning machines via genetic algorithms
+algorithms base seam carving method
+extension stone duality topology algebra
+corrigendum order analysis interpretation among systems
+modules projective objects ideal congruence
+towards generation routing protocol pocket switch network
+digital games tool inclusive education case study report
+medication persistence anti agent cohort patient rheumatoid arthritis
+treatment persistence patient rheumatoid arthritis
+conceptualize organizational innovation case software industry
+appropriation mechanism search result case study university
+apply classify news supply demand coffee market
+performance donation collection knowledge
+design implementation lab teaching programming robotic
+performance analysis method slope stability class soil earth dams
+accelerate families fuzzy means algorithms vector quantization codebook design
+model competition calcium control mode signal
+induction long term long term depression
+equalize membrane input resistance heterogeneous population fusiform neurons dorsal cochlear nucleus
+mechanism self sustain oscillatory states hierarchical modular networks mixtures cell types
+evaluate influence client behavior cloud computing
+generalized quasi metric string
+generator overlap function
+fusion function base integral
+closure property recursively language language
+result extension lattice value implication
+historical account types fuzzy sets relationship
+functions construction application
+interval extension pseudo norm
+position perspective analysis set information fusion decision making towards quality progress
+deal vagueness analysis
+approach design system
+study control strategy earth mars transfer
+analysis concept feasibility result numerical simulation two stage space radiator variable emissivity coating
+interval prototype classifier base distance apply breast image
+explore geographic data graph database
+quantum walk query
+dynamic century
+fund project dengue fever use tool support planning health research
+analysis digital abs tooling material polymer injection
+influence material disc dimension pressure injection
+policy focus network support health care research education
+optimization general surgery service university hospital
+curvature vibration sensing based core diameter mismatch structures
+locally enhance descriptor use entropy
+identify plant specie use feature leaf microscopy image
+texture analysis descriptor wavelet domain use basis decomposition
+dimension pattern texture recognition
+three connectivity index texture recognition
+explore dynamics cellular pattern recognition networks
+network analysis use temporal patterns
+circulate cell express cohort lobe epilepsy patient sclerosis
+evaluate effectiveness system classroom
+correlation receptor expression tumor surgical margin invasive front oral squamous cell carcinoma
+speech nasality cleft lip palate
+treatment dentin hypersensitivity use paste three month clinical trial
+versus expansion cleft lip palate randomize trial
+rho protein may participation tumor invasion lip cancer
+outcome expander opening patient cleft lip palate trial
+indication injectable treatment age related muscular degeneration
+indication capsule injectable treatment
+emerging future software engineering
+cross layer rout energy awareness mobile ad hoc network base mechanism
+reliable energy efficient multilayer mechanism realistic battery model support wireless
+step towards action reality game
+oh gosh game hard identify cycle patterns platform games use provenance data
+option base investment model energy portfolio
+term hydrothermal scheduling parameter uncertainty autoregressive model
+face uncertainty economics transmission networks
+expansion transmission challenge face south
+evolution electricity auction south
+design low latency centralized controller optical integrated network
+system systems support mobile safety critical applications challenge viable solution
+model dependable applications case study world opera
+reliability analysis operating systems software stack embedded systems
+detect emergence technology evolution co development trajectory science detects burst analysis base approach
+objective optimization apply level cache memory hierarchy tune aim energy performance optimization
+semi fuzzy algorithm segment mass region interest image
+role lightweight approaches towards standardization security architecture systems
+decompose highly edge connect graph path give length
+complexity orient coloring orient graph
+complexity number product graphs
+constructive genetic algorithm discrete dispersion point feature cartographic label placement problems
+model gene expression base system reveal modularity property gene network
+minimum stabbing rectangular partitions rectilinear polygons
+improve ontology base text classification health security application
+combination support vector machines segmentation algorithms anomaly detection petroleum industry comparative study
+memory system relationship group learning procedural analysis cross functional groups automotive company
+collaborative model ubiquitous learning environment
+map framework aid development application environment
+model trail commerce support
+sequence learn digital games
+use mobile learning formal non settings
+estimation self affine time series use graph
+grouping message event
+stage cross adaptation measurement tool assess understanding
+oil state parametrization constrain reservoir control optimization
+model plan trip position tanker travel time
+lot sizing production scheduling personal protection equipment company
+base tool simulation social production management urban ecosystems case study vegetable garden
+analyze brain signal use decision tree approach base
+discovering patterns brain signals use decision tree
+serious games tool change people attitudes analysis base discourse collective subject
+search crowd knowledge recommend solution usage task
+crowd knowledge coverage analysis base question type
+twenty eight year component base software engineering
+branch cut approach vehicle rout problem loading constraint
+design evaluation extension
+standard base context aware architecture personal smart gateways
+assist improvement scrum project use metric network
+deployment scale wireless sensor networks consider energy hole problem
+mining content recommender system approach
+fair collision resolution protocol tailored ad hoc wireless networks
+item response theory approach cluster estimation visualization
+video pornography detection learning technique motion information
+flux chamber measurement hydrogen emission rate surface evaluation
+characterization particle source research station
+evaluation weather research forecasting model parameterization sea breeze condition north sea environment
+study thermal internal boundary layer sea breeze condition use parameterization application model greater region
+simulation flow structure near gas interface compound emission study
+efficient geometry base localization wireless sensor networks
+network evolve field
+characterization ray lens two fabrication technique grate interferometry
+origin nature field contrast obtain brilliance ray source
+experimental high sensitivity laboratory ray grating base phase contrast compute tomography
+height control structure use ray radiography
+imaging property aspect ratio absorption grating use ray grating interferometry
+theory forces without proximity force approximation
+propose evaluate document database approach
+efficient modularity density heuristics graphs
+lightweight traceability agile architect
+embed software architects pron software
+neighborhood family perceive environment associate child activity body mass index
+cause mortality attributable sit time
+commuting reduce difference adherence recommendation derive leisure time activity among adult
+effect walking cycling route leisure time activity adult quasi experiment
+barrier associate frequency leisure time activity among adult income stratum
+time performance formal evaluation complex systems
+exploit information pairwise preference recommender system
+new framework quality assessment high resolution fingerprint images
+text matrix tool increase cohesion text
+bound travel umpire instance inequality branch cut algorithm
+learning object mapping learning styles strategy improve usability educational resource repositories
+socio cultural approach software engineering application model virtual learning environment
+open issues evolutionary robotics
+rim encapsulation sodium ion
+conformational variability sulfonamide hybrids crystal structure
+characteristic knowledge process
+predicting ethanol concentration industrial sugarcane fermentation base knowledge discovery databases
+availability cloud review research challenge
+performance analysis containers performance computing application
+performance evaluation reconstruction tool cloud computing environment
+amazon use species distribution model conservation
+practice distance land use drive gene flow across bee
+select plant specie restoration land use trait approach
+reconcile mining conservation cave biodiversity quantitative baseline help establish conservation priorities
+base context model check embedded systems challenge future trends
+verification fix point controller use delta form realization
+model check fix point filter
+ontology performance measurement indicators comparison
+novel immerse boundary method flow effect
+40 incremental speculative traceback exact chromosome wide alignment clusters
+pairwise biological sequence comparison
+meta method structure information radiology report
+licensing simplified guideline concentrated solar power project
+improvement protein domain identification reach breaking consensus agreement profiles domain co occurrence
+interactive simulator electric engineering training
+rotation feature extraction use structural co occurrence matrix
+endow content base medical image retrieval system perceptual similarity use ensemble strategy
+spatial datum warehouse come towards cloud design performance
+interoperability visualization support map face difference scale process
+recognition digit use signature feature optimum path forest classifier
+overview entrepreneurial process distance education
+patient specific modeling algorithm medical data base
+evaluating raft docker
+model based predictive control process fuzzy logic hypercube interpolated models
+network elastic optical networks different protection schemes
+analysis prediction property concrete via artificial neural network finite elements method
+scientific collaboration networks environment
+asymmetry synaptic connections nonlinear formalism
+tree algebraic connectivity
+strictly interval graphs characterization linear time recognition
+toughness strictly chordal graph
+automatic detection classification defects knitted fabrics
+establish guidelines user quality experience ubiquitous systems
+check information social networks regard user behavior developers effort avoid misinformation
+domain tailor classification user reviews base binary splits
+tombs digital memorials exploratory study multicultural elements communication
+use test bed infrastructure system configuration application
+control single phase power converter connect voltage distorted power systems variable compensation objectives
+define simulate open novelty requirement guideline challenge
+development balance child age 10 year compare adult
+difference pedal technique cycling cluster analysis
+case study calibration shear stress transport turbulence model scale wind turbine design airfoil
+classification imbalance level scale wind turbine fluctuation analysis vibration signal
+fund management reposition piece fertilizer company
+make advanced scientific algorithms big scientific data management
+ideal image across domains experiments algorithms learning
+quest organizational flexibility drive change business process identification context
+ownership relevance aspect orient business process models
+business process management
+time process adaptation context aware approach
+hidden model set value parameter
+better initialization heuristics order base network structure learning
+foreword section 2015
+network symmetry
+modulation cell behavior control network topology
+use network text classification discriminate document
+path community induce network
+use network science text analytic produce survey topic
+diffusion base approach obtain border area
+topic segmentation via community detection network
+seek linearity transfer function
+repertoire target analysis characterize thymus syndrome infant
+minimally method timing core characteristic
+model rethink role university generation knowledge innovation
+feature extraction power quality disturbances classification use smart meters signals
+integrated optimization model location sizing offshore platforms location oil wells
+effectiveness social marketing interventions promote physical activity among adults systematic review
+flow based network management report workshop
+development system classification images mobile devices
+diffusion silicon titanium dioxide thin films degree efficiency tin barrier layer
+response humidity sensor dope influence fabrication route
+effect doping conduction type transition humidity sensor
+calibration aperture area use vision probe
+study standardization lighting system fruit sorting
+nearly optimal comparison based diagnosis algorithm systems arbitrary topology
+system network security anomaly detection monitoring
+computing datum transportation system
+toward fully mobile network infrastructure
+information centric content retrieval delay network
+information hop rout ad hoc network
+simulation base scale algorithm cloud distribute application
+evaluation video transmission energy consumption quality
+analysis core employ array improve instruction level parallelism
+investigate purpose embed achieve trade performance energy
+behavior
+sodium chloride new force field
+artificial life environment model fuzzy cognitive maps
+noise measurement electrical power distribution transformer
+probability classification error cardinality comparison
+energy efficient location activity aware demand mobile distributed sensing platform sensing service cloud
+distributed sensor data search platform thing environment
+statistical correction result weather forecast apply model output calibration
+project implementation micro hydroelectric
+study case energy efficiency old building
+neighborhood set cube
+estimation parameter cascade base network traffic model wavelet domain
+estimation quality service parameter network use chain service curve
+2014 guest editor introduction
+meta heuristic based genetic algorithm select bailiff district
+population base learn application risk treaty optimization
+cloud computing strategy region grow segmentation
+dynamic capabilities political external relationship educational technology capability firm performance
+block level execution profiler
+resource base game approach paradox plankton
+coexistence compete pathway well mix population
+factor associate diffusion rate innovation pilot study perspective unified national health system
+compete strategy selection model
+video quality metric streaming service use dash standard
+automatic diagnosis network
+case study wireless
+closing price forecasting soybean grain use model intervention
+underwater depth estimation image restoration base single images
+frequency moisture content bulk density hybrid effects grain sorghum dielectric properties
+sentiment analysis publicly dataset
+health information systems decision make process primary care
+analysis engagement student base transactional distance educational data mining
+educational data mining oriented learning activity
+mapping approach measurement self regulated learning
+validation self regulate learning measurement instrument context use factor analysis
+situation awareness computational intelligence opportunistic networks support data transmission urban sensing applications
+apprenticeship age tool
+fair scheduler machine machine communication
+unambiguous distance base model solve economic dispatch problems disjoint operating zone
+new mathematical model restoration problem radial distribution system
+multi area environmentally active reactive optimal power flow short term tie line planning study
+apply reconfiguration distribution system reliability constraint
+reconfiguration distribution system consider reliability index improvement
+new methodology optimal charging coordination electric vehicles consider vehicle grid technology
+centralized self healing scheme distribution system
+optimization base switch allocation improve energy losses service restoration radial distribution system
+multistage term expansion planning distribution system consider alternative
+robust multi stage substation expansion planning consider demand
+branch flow model concurrent ac multistage transmission expansion reactive power planning security constraints
+manage uncertainty autonomic cloud elasticity controllers
+pattern base cloud architecture migration
+hardware software partitioning use particle swarm optimization artificial neural networks
+use empirical estimates effective bandwidth network aware placement virtual machines
+plastic modeling limit strain sheet
+experimental analysis forming limits thickness strains 800 steel
+effect strain rate deformation mode strain induced transformation steel sheet
+model forming limit strains sheets room temperature
+latency radiation self repair architecture
+agent base simulator land change auto tuning
+development scalability evaluation ontology base context representation service
+filtering mechanism geared towards context dissemination environment
+mapping ontology base modeling phase context life cycle
+element formal model intentional systems
+towards multi level semantics multi agent systems
+relativistic realism
+selection gelatin base coating preservation beef display
+iteratively refine breast cancer subtype dataset
+software characterization pore obtain image analysis
+analysis soil sand fraction sediments deposit
+change land use affect soil attribute
+classical simulator quantum element distinctness
+open software learning
+equation subject uncertainty carrying capacity population density
+note equation subject uncertainty parameter
+pedagogical agent gestures improve learner comprehension abstract concepts hints
+effect animate agent language learning environment
+review line rating system wind power integration
+optimal allocation capacitor banks use genetic algorithm sensitivity analysis
+influence commercial hatchery thermal environmental heat loss fertile broiler egg
+comparison national international standards good egg production practices
+towards repository learning objects design evaluation core services
+capture video stream audience network
+application distortion reduction fir filters dynamic systems method
+distortion reduction fir filters approximation window factor function coefficients
+project professional profile
+innovation teach technology
+academic scientific
+non ionizing radiation standard site
+streaming distribution challenge
+predicting environmental boundary behaviors mobile robot
+bi objective datum gathering path planning vehicle curvature
+engineer art gallery
+algorithm 966 practical iterative algorithm art gallery problem use integer linear programming
+development evaluation colorimeter prototype digital images
+game approach assessing learning outcome
+qualitative study insults collaborative learning
+hardware implementation fractional motion estimation targeting real time low energy
+differential geometry curves
+branch bind decomposition base bound traveling umpire problem
+goal solver search base solver school timetabling
+programming approach resource constrain scheduling problem
+programming technique nurse rostering problem
+analysis search method machine scheduling problem
+development software study transportation engineering journal
+reference model timing analysis network
+evaluate design processor time systems
+time analysis preempt rt kernel
+algorithm create birdsong
+proposal time fly video streaming platform
+event sense network agent
+cycle transversal distance graph
+integration tool web server research
+use information retrieval sentiment polarity prediction
+compare combine content citation base approach plagiarism detection
+assess impact stem accuracy information retrieval perspective
+grasp direct search grasp
+base method assessing measurement uncertainty training use artificial neural networks
+model base safety analysis software product line
+grouping business process model base clustering algorithm use similarity search
+improve business process retrieval use categorization search
+influence readability aspect user perception helpfulness review
+source library readability assessment text write
+agent base simulation evaluate intelligence scenario
+explore evidence infer user location twitter
+comparative study energy scheduling algorithms grids
+column generation approach software clustering problem
+investigation dynamic underlie stimulation use mega press experiment
+cord diffusion tensor image patient
+effect resistance training matter density
+variation edge smile attractiveness
+predict pain origin subpopulation database study
+detect task base compliance use plan abandonment technique
+browser base utility
+analysis value specification language apply requirements engineering process physical systems
+framework development service base self application
+base person identification binary flower pollination algorithm
+experiment service composition refinement basis preference drive recommendation
+base algorithm solve scale real heterogeneous fleet multi trip docking constraint
+algorithms job scheduling problem time window earliness tardiness penalty
+complex probabilistic interpretation application complex value data
+analysis largest national ecosystem public exchange points case
+finiteness computation
+unified procedure provability counter model generation minimal logic
+two result translation logic
+effect transportation distance weight loss pig dehydration
+origin evolution science toward architecture
+decision trees function evaluation simultaneous optimization worst expect cost
+trade worst expect cost decision tree problems
+comparison refraction measure spot vision
+user interface base graph
+development evaluation species distribution model five
+application use cloud computing research mapping study
+impact term cropping soybean soil
+community changes associated cultivation amazon forest soil oil palm
+diversity analysis two breed pig use datum
+association study failure syndrome pig
+comparative stream impact urbanization phenomenon
+approach toward transit orient development neighborhood tool evaluate propose transit base district
+reproducibility execution environment science use semantics cloud
+logic approach fire detection amazon forest
+design simulation 11 resonator antenna add bi microwave application
+temperature power concentration two three photon co dope lanthanum phosphor
+band bandwidth gain service
+framework estimate disclose ex ante cost capital valuation
+contribution technological approaches reduce mortality integrative review
+views handling manage breast cancer qualitative study
+persuasive technology nursing education pain
+nursing pron prepare future nurses automatons
+evidence base measure prevent line associate bloodstream infection review
+use networking nursing practice integrative review
+method modeling structuring computerized nursing care
+technology teach pain assessment nursing result learn base post testing
+survey index apply frequency response analysis machinery trend base approach result
+influence rotor position repeatability frequency response analysis measurement rotate machine approach diagnostic
+detection insulation failure generator frequency response analysis
+discrimination synchronous machines rotor faults electrical signature analysis base symmetrical components
+assessing sentence similarity lexical syntactic semantic analysis
+assess sentence scoring technique combination document summarization
+magnetometer calibration navigation system
+implementation self organizing maps airfoil design exploration via multi objective optimization technique
+enhanced transmit antenna selection scheme secure throughput maximization without transmitter
+maximization hop network secrecy constraint
+error probability wireless sensor networks imperfect sensing communication different decision rule
+datum preparation datum mining position paper case study
+classification electromyography signal use relevance vector machine dimension
+mercury levels polymorphisms evaluation population low amazon
+life cycle assessment small plant amazon
+regression variable selection use
+evaluation computational intelligence methods use statistical analysis detect structural damage
+reduction strategy label classification protein function prediction
+network structure analysis interbank market
+structure dynamic network
+evaluate systemic risk use bank default probabilities financial networks
+network bank efficiency risk taking
+network bank liquidity
+comparison use level perspective efficiency bank
+vulnerability cycle matter network
+web base self help intervention reduce alcohol consumption heavy drinking alcohol user pilot study
+development source web base intervention smoker viva
+model effect land use land cover nitrogen dissolve oxygen load river use concept contribution area
+detection counting orchard trees image use geometrical optical model marked template matching
+processing method satellite estimate water level volume fluctuation series lakes wetland complex
+linear logic tool qualitative quantitative analysis process
+testing use object net
+tree problem chordal graph
+recognition rice sample base trace element support vector machine
+classification origin rice datum mining inductively couple plasma mass spectrometry
+study datum mining technique authentication grape juice base ms analysis
+efficiency index graph
+use support vector machine analyze food security region
+classification two different countries south chemical compounds support vector machines
+sizes maximal independent sets cylindrical grid graphs
+establish chemical profiling ecstasy tablet base trace element level support vector machine
+size matter investigation role team size service provision
+preface time system
+electron microscopy structure native prototype foamy virus virus architecture
+fusion homo allow analysis protein
+low quality image segmentation use nonlinear regression mean watershed
+connect population model period location allocation problem post disaster relief operation
+heuristic design sink cluster topology
+solve bi objective vehicle rout problem cost demand
+efficiency wheat yield nitrogen dose fractionation
+theoretical conceptualization practical perspective
+software development group leaders influence team members behavior
+cost obstacle encounter debt management case study
+progress system design
+voting base generalize learning machine
+correlation entropy market
+evaluation enzyme immobilization method paper base device glucose study
+three strategies use statistical methods psychological research
+classification verification handwritten signatures time causal information theory quantifiers
+puppy retrieve dog feature
+diversity bird community respond change landscape cause eucalyptus plantation
+application sensor network monitoring pattern detection
+issue thing research challenge solutions
+model implement distribute game compute cloud
+hardware orient ad hoc computer base method structure element decomposition base algorithm
+database system support simulation data
+analysis spreading patterns generate model
+algorithm influence maximization
+design protocol sensor network
+design guideline routing network
+strategy big data analytics lambda architectures volatile environment
+acceptance hill climb school timetabling
+system creation programming availability distributed robot teams use collective knowledge
+role ethnographic studies empirical software engineering
+teach good programming use evaluation
+zone interest use analysis
+infrastructure highly city role vegetation preserve biodiversity
+heritage area visualization tool orchestrate growth transformation
+information model care define consensus model towards health record
+information model care
+phase lag synchronization analysis system direct inter relation
+influence hub structure network seizure
+hypothermia sepsis self limit terminal response
+filtering input extension
+tool manage climate risk agriculture
+allocation voltage regulator electricity distribution system use approach base veto model
+software reconfiguration distribute data stream system
+support aging action research study
+mobile autonomous sensing unit framework support distributed pervasive data sensing
+mac protocol support monitoring underwater space
+understand student participation course community case study
+massively mesh refinement coarsen simulation
+algorithm generate pack domain
+methodology control fracture reservoir simulation
+hybrid approach revisit visibility pipeline
+depth image generation depth perception
+efficient high dimensional edge aware filtering
+set theory predicate consistency
+set logic truth degree preserve logic
+towards theory logic
+evaluation techniques automatic classification lettuce based spectral reflectance
+non prediction pigment content lettuce base spectroscopy
+new benchmark instances vehicle rout problem
+model identification use efficient determination criterion
+distribution infection village southern
+resistance sheep gastrointestinal nematode northwest region state
+use software calculus teaching learning tool
+software impact economy environment
+elm base signature texture classification
+experience trust funnel method optimization problem constraint
+use data mining predict risk factor associated osteoporosis woman
+model apply breast cancer base network
+accuracy decision support system
+knowledge attitude adherence treatment individual hypertension diabetes
+characteristic patient submit surgery clinic southern
+base heartbeat classification arrhythmia detection survey
+license plate character segmentation
+copy number variations detection unravel problem aspect
+knowledge adaptation change flood pattern amazon delta
+simulation perfusion contrast myocardium use formulation flow medium
+plasma flow model interstitial tissue due bacterial infection
+simulation cardiac combining adaptive mesh refinement algorithms
+reactive fibrosis substrates cardiac pacemakers reentry
+use delay differential equation induce model
+reentry pacemakers emerge three dimensional model slab cardiac tissue diffuse near percolation threshold
+augment approach quasi incompressible cardiac mechanics
+pressure dynamics due bacterial infection
+machine learning approaches estimate simulated cardiac ejection fraction impedance tomography
+improve performance cardiac simulations multi architecture use coalesced data kernel scheme
+model heterogeneous cluster
+framework vessel analysis use slide image liver tissue section
+time three dimensional cell segmentation scale microscopy data develop embryos
+determination property water sediment land use use energy ray fluorescence spectrometry
+aquifer recharge estimate framework water bodies partially forested sub basins northwest
+design evaluation norm agent base normative decision processes
+evaluation wavelet method compare individual risk alcoholism
+copulas base time series combine forecaster
+improve regression prediction use point reliability estimate base error scenario
+use universal scalable efficient clock scheme
+measure friendship strength social networks
+motivate teams investigation task significance coordination incentive mechanisms
+model context prediction
+octopus model aid care disease
+system apply accessibility
+robotics adaptive interaction improving people communication disorder
+performance aware energy efficient cloud data center orchestration
+technology aging significance interaction information age keynote
+effect care training game marker pain
+reality exposure therapy patient control logic system
+drought resistance across ecosystem evaluate change carbon dynamic use satellite imagery
+toward development prosthesis temporally cod stimulation
+distribute base solver
+semantic web interactive gazetteer support linked open data
+neighborhood structure robin scheduling problem
+decomposition approach heuristic generate span tree number branch vertex
+combinatorial relaxation bounds berth allocation problem
+sport scheduling search space connectivity riffle shuffle drive approach
+analysis evaluation feature detection tracking techniques use focus reality application
+influence alternate bias effects irradiated mixed signal programmable arrays
+fault injection mixed signal programmable soc design diversity mitigation
+radiation effects low power ultra low power voltage reference
+radio signal classification base decomposition network
+toroidal plasma lens antenna
+retransmission mechanism base cooperative relays network coding
+karma theory determinism fatalism freedom
+perils android security configuration
+algorithms complexity result mapping problem
+social communication channels shape challenge participatory culture software development
+event fault reliability evaluation tool
+oxygen uptake exchange ratio distance comparison method equalize exercise volume rat
+password hashing security time memory trade
+lightweight escrow less agreement thing
+secure mobile health system scale data collection primary care
+map shape symmetry
+spectral analysis chaotic map base hyperbolic tangent function
+review temperature emissivity retrieval methods applications restriction
+mapping soil carbon particle size fraction water retention forest
+evaluation performance heuristic flow shop minimization
+scheduling model astronomy
+loss resonator transversal thickness mode
+feature circulate leukocytes non human primates naturally infect resemble major immunological findings observe human disease
+identification plasma differentiate tuberculosis
+perception science student state study perspective biotechnology
+active search method finding object near optimal property value within give set
+effects feeding bee colony dynamics mathematical model
+verification case study space software domain
+alternative evaluation coffee seedling use fisher analysis
+process improvement professionalizing non profit organizations approach
+use systems dynamics reverse logistics analysis
+reveal dynamic state proton transfer conjugated compound theoretical study
+land cover classification change analysis municipality use classification
+monitoring canopy air temperature vegetation semi arid use model
+change detection base feature transform spatially constrain matching
+instruction set independent program encoding
+inference pressure ulcer stage texture image training set
+index paradox coauthor index pron
+study infiltration strategy twitter network
+strength work tie
+model cost dominating tree
+formulation path problem visit give set node
+algorithm pair suffix prefix problem
+towards characteristics accessibility usability issues people case study 2017
+ultrasonic tomography technique tool evaluate concrete structures
+multi document summarization use discourse model
+explore subtopic base relationship map strategy document summarization
+toolbox innovation software development process
+reduce base test suites guaranteed fault coverage
+use distribute representation semantic similarity entailment recognition
+increase intelligence inter vehicle communications reduce traffic congestions experiment urban highway environment
+environmental management system 14001 factor promote adoption cleaner production practice
+screen bean access improvement program
+use interaction support production location base information
+network message near time use sensor datum stream application flood
+construction system sphere base transitively meet contraction impossibility result
+free free planar match graphs
+stage discharge rating curve base satellite model discharge amazon basin
+comparison model response loading amazon basin
+new approach proximal point method convergence general manifolds
+rate algorithm convex minimization
+space algorithm circle packing
+glycerol selection optimize condition ethyl purification response surface methodology
+analysis method sequencing experiment
+bind factor consensus site reveal role response
+identification press key time difference arrival vibration
+procedure graph partitioning application ring problem
+support partial database migration cloud use non software adaptations experience report
+model particle size distribution heterogeneous polymerization systems use function
+develop expression recognition base model
+step step implementation social network
+growth cell whey response surface methodology versus network algorithm approach
+evaluation loss broiler use digital analysis lymphoid depletion system
+web base tool gram promoter prediction
+time perception mechanism system
+effect mobilization mechanic nerve
+distortion time perception critical situation
+motor irradiation accord concept proprioceptive neuromuscular facilitation measurement tools future prospect
+exercise hypertensive patients review literature
+restoration optical cloud networks relocation services differentiation
+optimal lifetime aware operation green optical backbone networks
+study acceptance website interaction aid adult
+look substratum constrain cognition expression
+ban regulate weapon
+representation string loop hole
+map knowledge based malaria hazard index related landscape use remote sensing application cross border area
+strong convergence projected gradient method convex optimization space
+doubly stabilize bundle method convex optimization
+optimization method convex problem
+convexity optimization structure constraint
+inexact stabilize bender decomposition approach application chance constrain problem support
+management practice enterprise relationship practice adopt fund
+improve performance pricing options simulate tree
+social data analysis mood twitter
+entailment issues integrate learning theories educational technologies
+role help requester collaborative learning
+application facet analysis theory concept maps faceted search domain ontology preliminary studies
+two phase solver fluid study effect
+method analysis discharge generalize linear model
+virus derive footprint host pathogen interaction
+dataset base object detection pose estimation warehouse pick place
+view line cod diffusion tensor imaging
+generalized distance base generalized triangle inequality
+image segmentation via atlas object model improve efficacy object search model
+evolve technology grow image analyzing root system architecture crop plant
+surface structure pt alloys control water hydrogen peroxide formation
+capture effects liquid interface ab molecular dynamics pt immersed water
+methodology construction ontology application blood domain
+health application assist hospital acquire pneumonia diagnosis treatment
+model driven engineering approach support development secure software service
+zero prediction model software fault datum
+stem cell transplantation aid patient renewal diversification cell
+completion protein sequence homology base neighbor extrapolation database sequence
+predict indirectly recognizable class pron promote responses cord blood transplantation indication potential novel donor selection tool
+anti antibodies pancreas islet transplantation
+previous miscarriage previous successful pregnancy impact antibody formation subsequent successful pregnancy
+presence correlate lifespan productively cell infection
+tree compact external memory representation
+calibration testing cs model common bean
+pedagogical usability theoretical essay learning
+energy budget gradient southern shelf
+energy efficient content distribution
+existence tree backbones realize chromatic number backbone coloring
+wisp pattern base approach interchange specification
+control flexible manufacturing systems model uncertainty use supervisory control theory computation schedule synthesis
+weather model evaluation core architecture vision
+exponent mesh refinement speed flow use scheme
+predict stimulus perform use network
+science education perspective didactic transposition concepts
+methodology technical managerial risk identification analysis product design process
+inter plant variation sprout time affect growth reproduction trade tree specie
+dung beetle diversity vary along rainy season tropical dry forest
+pattern diversity termite along gradient
+pron ask pron collaborate analyze developer relationship platform ecosystem
+penalty scheme solve constrain optimization problem craziness base particle swarm optimization
+adaptive constraint handling technique particle swarm constrained optimization problems
+digital movie base titration
+magnesium ion yeast set metabolism glucose repression
+two phase load balancing memory key value storages use network functions
+influence injection pattern measurement strategy impedance tomography
+interval simulate annealing apply impedance tomography image reconstruction function evaluation
+surface wear analysis use image processing techniques
+framework evaluate performance new industrial business model
+study grid size impact raster base strip packing problem solution
+synthesis electronically annular ring monopole antenna use particle swarm bee colony algorithm
+algorithm optimization feed ring monopole modify ground plane
+classical resolution many value logics
+two stage two guillotine cut stock problem leftover
+programming approach constrain matrix model updating
+application augmented algorithm portfolio problem
+equality constrain optimization programming
+optimization integer variable use inexact restoration project gradient
+pack ellipsoid optimization
+low carbon logistics green logistics sustainable logistics establish concepts scope
+model cluster search plan helicopter transportation employee production platform oil gas
+plan diesel supply offshore platforms mathematical model based vehicle rout problem replenishment
+introduction lean manufacture philosophy event case study industry
+computing consideration flexibility security
+equivalence memory
+choice distribute classification task deal vertically partition datum
+role protein disorder disorder
+two layer structure stabilization optimization oil gathering acknowledge support center integrated operations
+multi agent system satellite images mining
+comparison cycle spin versus wavelet transform extraction feature discharge signal
+lung segmentation chest compute tomography use background estimation method
+fuzzy modeling multi label text classification support classification algorithms
+leverage modulation hop rout network
+framework create narrative technique
+test time model
+characterize fault real time systems base grid
+implementation diversity school choice
+knowledge awareness alarm system database
+neighborhood search berth allocation problem
+berth allocation ore terminal maintenance
+individual access accident physical therapy services
+wind speed prediction municipality linear regression nonlinear wind power generation purpose
+review technical regulation flow computer volume converter
+sort circular permutations super short reversals
+time alarm processing predictive failure diagnosis petrochemical plant
+transcription profile grow keratin reveal induction protein gene tandem repeat pattern
+model estimate flow speed expressway
+tool automate retrieval analysis cry protein datum
+net zero energy community improve load matching
+load forecast building base occupancy monitoring
+facilitate knowledge sharing reuse building construction domain ontology base approach
+ms novel clustering algorithm base morphological reconstruction
+network suppress genome rearrangement contain defect cancer
+differential expression inflammation relate genes children syndrome
+case study cell tumor analysis reveal insight target development monitoring tool disease
+analysis human reveal new targets variety tumor types
+towards model open reliable cognitive systems deal trust emotion
+learn objects recommendation system issues approaches retrieve indexing learning object
+bladder rat subject treat lysine
+morphology nerve ending fold
+analysis flow dynamic graft
+mapping tree specie semi forest datum
+rough cognitive network
+digital image tool chicken quality assessment
+storage time prediction pork computational intelligence
+authorship verification apply detection compromise account network
+relationship quality electronic commerce
+unsupervised learning clustering self organize agents apply help network management
+simulation thermal comfort use individualized air conditioning systems
+implementation validation statistical tests research software help data collection protocols analysis surgery
+difference muscle profile associate value acid content
+genome sequencing cattle reveal variant candidate gene production disease resistance heat tolerance
+gene expression difference muscle steer genetically feed intake
+branch cut price algorithm degree constrain minimum span tree problem
+formulation min degree constrain minimum span tree problem
+tree star problem formulation branch cut algorithm
+decision tree base security dispatch application integrate power gas network
+annotation interoperability product management context
+presentation aids care among man self identify
+functionality process engineering progress challenge
+simplification polygonal terrain elevations construction reduced visibility graphs path planning
+application development thing context aware mixed criticality systems development platform
+use application distance learning specialization course support tool student live area without
+application developed distant learn dentistry valuable educational resource academic professional qualification
+point particle system component mass regime formulation relativity
+oscillation flaring region 11272
+radiation point particle system formulation relativity
+set refactoring evolution program
+improve performance apache environment context scheduling
+novelty detection datum stream
+learn algorithm novelty detection datum stream
+survey system application fault diagnosis power system transmission line
+automated fuzzy system base feature extraction selection opinion classification across domain
+attributed graph rewriting complex event processing self management
+survey cloud federation architecture identify property
+solution detection control road use vehicular networks
+particle swarm algorithm apply grid scheduling
+introduction section cloud computing advance research trends
+parameter tuning algorithm devise support protein classification
+algorithm copula apply optimization problem
+evolve spike neural networks recognition voice
+modeling impact towards improve accounting biomass
+game development strategy health promotion tackle childhood obesity
+approach improve efficiency river discharge measurement
+base development camera precision agriculture
+editorial issue
+issue editorial advance scale simulation time application
+energy scheme depth map prediction
+complexity control encoder target time constraint
+application guide power efficient fault tolerance context adaptive variable length coding
+explore capability band fully data land cover classification tropical environment
+means algorithm base distance aperture radar image classification
+impact asymmetric encryption algorithms
+security wireless sensor networks challenges trends guideline
+infrastructure security thing
+methodological approach assessing amplified reflection distributed denial service thing
+analysis land cover changes tropical savanna area west
+use different satellite sensors discrimination natural targets
+variation 2000 2015 remote sensing free software data
+water quality chlorophyll measurement vegetation generate orbital suborbital image
+inundation fire shape structure riparian forests
+application techniques digital image processing different orbital sensors
+regional analysis landfill deployment use software
+distribution sand fly factor relate abundance area
+scenario use free software geographic information systems
+modeling strategy cloud infrastructure planning considering performance cost requirement
+simulate anneal machine reassignment problem
+property class self polynomial
+class function give three term recurrence formula
+polynomial unit circle satisfy three term recurrence formula
+apply autonomy bandwidth allocation models
+fully segmentation method vivo coherence tomography
+evaluation potential pepper sauce
+factor predict outcome follow treatment epilepsy sclerosis
+level approach use algorithm ensemble squares support vector machines
+study analysis information technology dentistry country
+video medium teacher training education
+handle fuzzy points fuzzy line use abstract data type
+abstract data type
+field reflector problem intersection paraboloid
+cross platform verification framework instruction set simulator
+method characterize phase transition surface reaction model
+aspect stability invert pendulum generalize excitation
+analysis reinforce beam strengthen bend carbon fiber reinforce polymer
+design carbon nitride identification defect catalytically site
+structural properties carbon nitride sheets
+healing mechanism investigation
+tool identify characteristic effector protein
+maturity level management support innovation within center
+university contribution qualification accounting professionals
+estimate emission greenhouse gases university campus connection energy consumption
+energy water consumption post occupancy phase user perception building certify leadership energy environmental design
+similarity partition problem application reconstruction quantification problem
+quantify contagion effect 2008 crisis country nominal
+two sample entropy assess image texture irregularity
+study effect moderate asymmetry replica vocal fold
+perceptual error identification human voice
+check overlap nominal rewriting rule
+completeness nominal unification algorithm
+type soundness path polymorphism
+practical semi external memory method approximate pattern matching
+capacity overlap index application rule base classification system
+clarify definition notation use set well recommend change
+lattice transform perspective morphology
+conformal antennas array wireless communications 25
+incremental layer assignment drive external timing engine
+visualization clusters educational data set based convex hull shape preservation algorithm
+effect argon diamond deposition hot filament chemical vapor deposition
+body suffering care possibilities reflective look health economics
+identification block performance sugarcane use datum mining
+effect tuning feature engineering feature selection datum mining apply sugarcane yield
+summarize video sequence use graph base approach
+scheme inter domain establishment base architecture
+scheduling link vertex multicolor interference model
+grid framework co simulation use architecture
+approach use support vector regression location network
+combine diversity measures ensemble pruning
+meta learn recommendation default size classifier pool meta
+analytical observatory management substance dependence review without analysis
+data classification improve spanning forest
+model check level net
+relation domains information retrieval knowledge organization international journals
+interpolation repeat extrapolation reduce discretization error
+product lines energy conservation use case agile development infotainment
+evaluation permeability bed palladium dispersed alumina selective hydrogenation trickle bed reactor petrochemical plant
+improvement divide segment method image segmentation
+improvement evaluation roof extraction use imagery datum mining approach
+combine time series features data mining detect land cover patterns case study northern state
+pattern selector depth modeling mode three efficiency video coding standard
+dataset breast cancer image classification
+secondary virtual network mapping onto cognitive radio substrate collision probability analysis
+modified shuffled frog leaping algorithm improved set computation application product transport pipeline networks
+mathematical programming approach optimize scheduling tanks oil refineries
+evaluation extended autocorrelation phase estimator ultrasonic velocity profile use nondestructive testing system
+model tank farm operation problem finished products refineries
+gene expression induce cochlear nucleus rat
+technique devices use palpation simulation feedback
+compare datum structure represent model three training
+make sense decrease citizen representation
+client consultant relationship implementation government explore dynamic power knowledge
+hash base co cluster algorithm datum
+thermal response heat buildings green covers tropical climate green facades green roofs
+approach quantify effect analysis food
+building cover combine ventilation facade roof
+construction pilot scale oven use sensor instrumentation food evaluation
+comparison two signature scheme base problem quartz
+homogenization model aberrant crypt foci
+diffusion medium
+study daily demand forecasting order use artificial neural network
+container crane controller use network
+empirical analysis boiling point elevation eucalyptus kraft black liquor
+model impact policy feedstock diffusion
+identification characterization inter organizational information flows national health service
+development standard comparison currently use standard
+promote drug reaction report use information system review analysis
+promote drug reaction reporting comparison approach
+novel multichannel error recovery video streaming protocol vehicle ad hoc networks
+opportunistic routing underwater sensor networks
+link probability node degree coverage three network
+novelty detection class classification power distribution voltage waveform
+new trends power quality event analysis novelty detection unsupervised classification
+ontology base approach integrate tool support software measurement process
+assessment extended finite state machine test selection criteria
+heart rate variability detection scare
+analyze emotion patterns base cutaneous temperature
+transition vortex vortex trap condensate
+construction number algebraic
+approach strategic alignment software process improvement systematic literature review
+demand planning smart homes
+rotational load flow method distribution system
+time monitoring points common coupling distribution systems state estimation geometric test
+convergence evaluation load flow method base approach distribution system analysis
+evaluation forward backward sweep load flow method use contraction mapping principle
+importance truly distinction standardization case study domain telecommunication
+reinforcement learning multiple share reward
+exploit formal methods simplify modeling flexible manufacturing systems
+radiation force torque exert particle fluid
+core shell particles acoustic radiation force
+quest ruin game digital inclusion
+preprocessing algorithm increase performance application processor architecture
+prepare book handle visually impair
+computer scientist still imagine nerd
+application initial literacy though method
+implementation grasp apply school bus rout problem
+integration subjective objective usability evaluation base 15939 case study traffic supervision systems
+journal computer science information technology
+issue applied earth observation remote sensing
+method estimate temporal interaction field base approach crop recognition
+vector bear disease surveillance livestock population review literature recommendation implement surveillance five country
+health surveillance literature review progress year 2011 2016
+code smell analyzer tool teaching support refactoring techniques source code
+approach detect unnecessary complexity source code
+intelligent modeling forecasting
+intelligent models identification treatment outliers electrical load data
+social barriers face international disaster management
+key indicators international disaster management
+feature detection vehicle localization urban environments use multilayer
+portfolio optimization time series base design
+comparison neural networks logistic regression assessing occurrence failures steel structures transmission lines
+design experiments focused grid search neural network parameter optimization
+experimental design data collection end mill operation 1045 steel
+robust parameter optimization base multivariate normal boundary intersection
+impact dynamic thermal limits transmission lines power system operation
+frequency base approach surface diagnosis turning use signal mixture model
+comparison multivariate gr method use confidence interval
+multivariate normal boundary intersection base rotate factor score optimization method methyl orange treatment
+intersection multivariate error approach end milling process optimization 1045 steel
+compare component analysis optimization process
+criterion decision make apply optimization harden steel turn wiper tool
+geometry aware neighborhood search learning local models image
+perspective enterprise system
+knowledge engineer enterprise integration interoperability networking theory application
+knowledge representation retrieval reuse product family design anti approach
+power factor correction harmonic filter planning distribution network
+optimization base methodology design fully amplifier
+automatic design telescopic amplifier base particle swarm optimization
+identification rejuvenation critical logic paths circuits
+setup single event effect studies
+aware design integrated circuits hardware base approach increasing circuits life time
+effectiveness hardware base approach detect defect cell process variation
+case study mastermind chess compare mouse keyboard interaction base gestural interface
+mental models analysis comparison base fuzzy rule case study protests 2013
+influence learn object simulation dentistry randomize control trial
+cities content environments family health postgraduate program
+film case education health care professional
+pressure rout underwater sensor networks
+dynamic pit entry lifetime vehicular named data networks
+special section challenged network
+network communication ad hoc network
+proposal enhancement quartz digital signature
+evaluation fidelity classifier prediction
+scoring tool determination protein sequence
+analysis water rivers use distribution imputation blocks bootstrap
+detect avoidance behavior move object trajectory
+multidimensional similarity measuring semantic trajectories
+robust graph considers labeled instances semi supervised learning
+cooperation development analysis context federal universities state
+modernization interferometer accuracy calibration gauge block
+color interference microscope surface
+neighborhood graph construction semi learning
+use tongue discriminate ethanol water mixture determination water content
+sequencing reveal region mechanism associate model sclerosis
+206 marker onset sclerosis
+ethanol intake link pathway
+water crisis evaluate disaster point view
+mobile tourist guide support smart city initiative case study
+statistical scheme support performance comparisons different designs evolutionary algorithms
+light computer automate design base criterion parallel algorithm optimize design illumination quality energy efficiency
+parallelism scheme algorithm apply model spring system
+new strategy evaluate technical efficiency hospitals use homogeneous groups
+gene order reconstruction genome gene content
+pron know teaching religiosity spirituality undergraduate curricula review
+text mining strategy profile use influenza virus genome scientific publication
+toward characterization software testing practice south look
+sustainability hotel business criterion development
+impairment community population association pain
+risk vulnerability adaptation climate change interdisciplinary approach
+hybrid heuristic base iterated local search inventory routing problem
+algorithm traveling car renter problem
+integrate heuristic inspire search vehicle rout problem delivery pickup
+microwave irradiation apply strontium titanate ceramic
+pure doped powders obtain ultrasonic synthesis
+intelligent control architecture mobile robot
+ground base solar observations plasma bubble sector period extreme low solar activity
+effect storm 2012 latitude region sector cycle
+autotransformer controller zigzag adz software 40
+relation wind sector global crisis
+application artificial neural network models segmentation classification nodules breast ultrasound digital images
+qualitative analysis mesh refinement methods non domain
+efficiency design temperature electrolysis system couple hydrogen production
+multi objective calibration model genetic algorithm parametric sensitivity analysis
+validity activity monitor step detection relate movement patterns run head activity monitor step count accuracy
+sit time predictor sleep quality woman
+cross sectional study relationship physical activity depression cognitive deficit older adults
+performance activity classification algorithms free live adult
+medicine ball throw test predict arm power rugby seven player
+energy expenditure 70 activities children adolescent
+feasibility use observation technique assessment live activity adult
+design implementation control system sailboat robot
+towards part lifetime traceability use machined quick response code
+extinction profiles classification remote sensing data
+data classification use extended extinction profiles
+fingerprint liveness detection use neural networks
+neighborhood convexity
+intelligent monitoring system prevention foot
+detection defamation promotion recommendation
+measure rating support strengthen access publishing
+fault diagnosis base petri nets case study plant
+product service architecture toward service engineering perspective industry 40
+perspective post model integration process
+space military dependency case geostationary satellite defense strategic communications
+modeling base equation approach
+cutaway oil reservoir
+graph base interactive volume exploration
+use classification methods reinforce impact social factors software success
+longitudinal analysis modularity modifications
+international research pharmaceutical sciences partnership research institutions university
+weighing attribute retrieve lung cancer nodule
+transformer asset management maintenance planning perspective
+impact changes accounting standards debt ratios firms evidence
+market behavior shell nuts produce 2000 2010
+evaluation energy save alternative distillation process
+validation method phase analysis ray diffraction case
+combine discriminative feature life activity recognition use motion sensing suit
+network place classification robotic
+mining correlate traffic event sensor observation transport datum use self organize map
+tasks crowd typology tasks geographic information case study humanitarian mapping
+volunteered geographic information natural hazard analysis systematic literature review approaches focus preparedness mitigation
+evolution symbiosis coral model past future
+carbon cycle tree stand theory discount production due litter decomposition
+digital twin data modeling communication methodology data exchange
+penalty type method
+use squared slack variables nonlinear order cone programming
+soil moisture modeling base behavior force till chisel opener
+neutralize vulnerabilities android process experience report
+model reformulation distillation unit charge problem oil blend sequence changeover cost
+branch bound algorithm travel salesman problem
+tracking leaf area index extinction harvesting cycle wattle
+function index distribution regeneration manage area
+selection vector estimation biomass mimosa use network
+wood density carbon content teak individual
+approach model tree crown volume wattle acacia wild stand
+light communication apply intelligent transport systems overview
+new algorithm find tours circuits graphs
+chaos single op amp base jerk circuit experiments simulation
+disentangle influence earthworm sugarcane
+learning management systems learning management integrative review research agenda
+framework practical introductory classes development information system
+inferring pattern sequence hypercube span tree
+parameterization medical surface reconstruction
+combination means cluster entropy filtering band selection classification image
+connect component labeling base hypercubes memory constrain scenario
+classify sky image approach detect range imaging attribute
+features active appearance model apply facial expression recognition
+experiment ontology base support approach process modeling
+network apply study pattern subtype strain therapy
+use machine learn approach drug discovery
+structure dynamic characterization ion channel virus hydrophobic protein sh domain combine dynamic mode
+considering global local conformational changes molecular docking
+methodology calculation factor priority grid implantation use logic
+laser bowel disease future reality dream
+learning specie
+adaptive decision trees base concentration inequalities
+meta learn select meta heuristic traveling salesman problem comparison meta feature
+analysis system environment event simulation software
+analysis ship arrival function discrete event simulation model ore export terminal
+decision artificial neural networks discrete event simulation model traffic system
+discrete event simulation model didactic support
+invest equity
+intra prediction algorithm base texture analysis encoder
+energy economy use lead multiplexing
+services distribute collaborative architecture conducting experiments service oriented systems
+framework manage routes network interfaces android devices
+use resource product innovation performance survey furniture industry
+improve data dissemination wireless sensor networks network coding
+mortality table population
+transition limit distribution matching graph
+designing future warehouse scale computer end end voice vision personal assistant
+implications future warehouse scale computer
+urban mobility challenges exploratory analysis public transportation data
+reformulation optimization problem
+serendipity base approach delay premature convergence use scout particle
+formula root computation field characteristic
+system clock raspberry pi computer platform
+hypothesis improvement effect function institutionalize person
+nutritionists health study cohort web base approach life event habit health outcome
+lifestyle intervention use approach associate benefit retention individual health status
+address requirement computer vision system case study
+nuclear loosely coupled software architecture humanoid robot systems
+inequality set intersect conflict graph
+mapping preservation area hilltop
+cluster management system
+health solutions use networks communications
+security cloud computing base mobile health
+protocol wireless sensors network connect radio fiber link
+model wind speed profile within amazon forest site
+performance evaluation mobile applications mobile cloud environments
+fault detection method hard disk drive base mixture statistic
+data assimilation ensemble filter equations
+application simplex method radiotherapy treatment
+feature subset selection instance filter cross project defect prediction classification ranking
+mutation testing circus
+agent base model cell protein synthesis
+lamb muscle discrimination use imaging comparison machine learn algorithm
+curvature radius measurements humeral dog
+framework evaluate result approach identify bug introduce change
+optimization flow rate measurement use accelerometer application water industry
+effect overshoot level method processing tail chop lightning impulse
+quality design approach development transducer measurement result design space configuration
+efficiency sampling countermeasures infrastructure target campaigns
+minimize transmission loss smart share energy
+publisher drive caches analyze shaping network
+planning model agribusiness system use system dynamic
+guest editorial selected papers symposium games digital entertainment 2015
+effect calve rate cow mortality profitability dairy farming
+effect pasture irrigation profitability dairy production system participate program
+feasibility add sunflower oil grass base diet lactate dairy cow
+study cost revenue production practice laboratory federal institute science technology campus
+effect roughage profitability milk production system zebu cow
+effect index cost effectiveness dairy farm participate program stage production
+heterogeneity roughness terrain implication wind power
+aspect prisoners dilemma population model automaton algorithm
+seed genetic algorithm solve job shop scheduling problems
+neighbor search algorithm grid location
+theoretical elements analysis functions
+subject message filter social media context enriched language models
