@@ -1,11 +1,11 @@
-id,topwords,description
-0,base management recognition quality search environment energy architecture heuristic identification,['information retrieval']
-1,detection image power system use support classification learning multi systems,['machine learning']
-2,modeling process design performance evaluation application mining solution literature computer,['interaction design']
-3,location optimization algorithm service selection algorithms search engineering wireless feature,['design and analysis of algorithms']
-4,impact framework information data selection education mining health service solution,['data management systems']
-5,control time prediction solution service literature product health wireless level,['software notations and tools']
-6,estimation model selection neural search generation mining prediction wireless engineering,['information retrieval']
-7,test analysis heuristic health computer generation machine solution assessment research,['hardware test']
-8,network structure activity neural prediction research service health mining sensor,['network properties']
-9,simulation graph solution neural engineering wireless software computing mapping game,['software creation and management']
+id,topwords
+0,energy management software classification power recognition cloud base networks development
+1,framework identification information system analysis data architecture product selection computer
+2,process support time systems multi selection literature solution mining engineering
+3,technology impact quality assessment health game feature literature selection level
+4,optimization algorithm selection algorithms wireless search product heuristic computer generation
+5,modeling activity research mining neural solution location sensor feature software
+6,estimation performance evaluation model selection generation search computer neural algorithms
+7,graph detection image solution computer neural literature product feature networks
+8,control application design simulation environment product computer literature prediction solution
+9,structure test prediction generation machine activity programming software computing application

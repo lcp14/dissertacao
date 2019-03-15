@@ -1,21 +1,21 @@
-id,topwords,description
-0,analysis health computer solution research feature software networks environment sensor,['software creation and management']
-1,model mining prediction wireless engineering generation search level computing network,['professional topics']
-2,network neural service sensor search feature computer environment estimation evaluation,['information retrieval']
-3,time solution service prediction wireless game activity support assessment multi,['theory and algorithms for application domains']
-4,optimization algorithms selection wireless search engineering product programming generation level,['design and analysis of algorithms']
-5,control literature prediction product solution health level sensor network estimation,['network properties']
-6,graph solution neural game structure learning power detection model algorithm,['machine learning']
-7,estimation selection neural search generation quality software architecture application data,['data management systems']
-8,test heuristic generation machine assessment computing software application programming impact,['software creation and management']
-9,simulation engineering wireless software computing mapping assessment architecture network environment,['software creation and management']
-10,base search environment heuristic identification software feature mapping machine development,['software creation and management']
-11,management recognition quality energy architecture assessment technology cloud networks sensor,['network types']
-12,detection image use classification learning computer neural mining literature education,['machine learning']
-13,power system support multi systems health selection wireless heuristic engineering,['professional topics']
-14,design performance evaluation application computer research algorithms product literature solution,['design and analysis of algorithms']
-15,framework data mining selection service search literature heuristic education wireless,['data management systems']
-16,modeling process mining solution literature engineering selection sensor research service,['enterprise computing']
-17,location algorithm service engineering feature search networks selection game computer,"['information retrieval', 'network types']"
-18,structure activity prediction research neural health mining feature architecture data,['data management systems']
-19,impact information selection education health mining solution product service networks,['professional topics']
+id,topwords
+0,algorithm selection heuristic computer networks product machine search recognition structure
+1,optimization algorithms selection wireless search product generation engineering programming level
+2,control prediction literature product solution level sensor network base support
+3,graph solution neural game power structure learning model detection algorithm
+4,modeling mining solution sensor software structure performance estimation activity framework
+5,structure prediction activity network architecture data detection design analysis systems
+6,test generation machine programming software computing application impact development data
+7,activity research neural mining location feature structure framework application environment
+8,quality health game feature literature level selection algorithms service mining
+9,detection image computer literature product feature networks algorithms sensor neural
+10,classification recognition base networks learning machine mapping network use neural
+11,energy management software power cloud development location search heuristic generation
+12,identification information system analysis product selection research solution prediction neural
+13,framework data architecture selection computer search product mining service education
+14,time systems multi solution selection engineering service prediction location literature
+15,performance evaluation computer algorithms search wireless service education solution engineering
+16,process support selection mining literature education search solution computer engineering
+17,technology impact assessment product education selection research literature service computer
+18,application design simulation environment product computer research generation solution literature
+19,estimation model selection generation neural search mining prediction wireless engineering
