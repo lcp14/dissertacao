@@ -1,0 +1,1 @@
+constraint ensure vanish moment wavelet filter bank detection

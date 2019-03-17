@@ -1,0 +1,1 @@
+insertion sort sequence numb minimize sum

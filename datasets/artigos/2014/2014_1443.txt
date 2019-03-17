@@ -1,0 +1,1 @@
+feature extraction sign language recognition base structure use sensor

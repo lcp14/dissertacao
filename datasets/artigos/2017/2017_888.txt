@@ -1,0 +1,1 @@
+term load forecast method base time series seasonality memory process

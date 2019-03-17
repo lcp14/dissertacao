@@ -1,0 +1,1 @@
+hash function base network automaton

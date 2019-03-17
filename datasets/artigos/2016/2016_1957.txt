@@ -1,0 +1,1 @@
+strategy fix degenerate k mean solution

@@ -1,0 +1,1 @@
+facial recognition system base technique principal component analysis s k star random forest classifier

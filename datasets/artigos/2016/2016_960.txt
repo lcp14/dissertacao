@@ -1,0 +1,1 @@
+wind speed prediction municipality linear regression nonlinear wind power generation purpose

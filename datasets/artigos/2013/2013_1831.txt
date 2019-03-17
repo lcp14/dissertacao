@@ -1,0 +1,1 @@
+sparse project gradient method linear scale memory alternative self consistent field electronic structure calculation

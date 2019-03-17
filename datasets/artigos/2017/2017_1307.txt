@@ -1,0 +1,1 @@
+method generate model decouple acquisition

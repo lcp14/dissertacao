@@ -1,0 +1,1 @@
+algorithm objective schedule world pipeline network

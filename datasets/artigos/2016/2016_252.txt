@@ -1,0 +1,1 @@
+construct cover array sequence field

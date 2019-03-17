@@ -1,0 +1,1 @@
+seed genetic algorithm solve job shop schedule problem

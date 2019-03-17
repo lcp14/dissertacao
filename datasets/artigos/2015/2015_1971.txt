@@ -1,0 +1,1 @@
+dynamic service discovery model well leverage bpm integration

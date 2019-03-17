@@ -1,0 +1,1 @@
+chaos single op amp base jerk circuit experiment simulation

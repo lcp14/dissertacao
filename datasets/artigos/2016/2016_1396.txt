@@ -1,0 +1,1 @@
+lung segmentation chest compute tomography use background estimation method

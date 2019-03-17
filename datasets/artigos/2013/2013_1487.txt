@@ -1,0 +1,1 @@
+land use cover classification landscape use support vector machine homogeneity

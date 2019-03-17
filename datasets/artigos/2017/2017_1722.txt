@@ -1,0 +1,1 @@
+hardware implementation basis function network customize precision float point operation

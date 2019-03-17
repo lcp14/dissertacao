@@ -1,0 +1,1 @@
+northbound interface power management generation network device

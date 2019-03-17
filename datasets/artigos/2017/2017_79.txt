@@ -1,0 +1,1 @@
+contour method apply segmentation ct lung image

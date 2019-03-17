@@ -1,0 +1,1 @@
+parametric tool dynamic analysis wind turbine tower use finite element method

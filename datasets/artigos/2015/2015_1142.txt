@@ -1,0 +1,1 @@
+determine camera parameter measurement

@@ -1,0 +1,1 @@
+efficient hardware implementation ray trace base embed software intersection computation

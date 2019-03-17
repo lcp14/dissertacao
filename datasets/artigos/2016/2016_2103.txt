@@ -1,0 +1,1 @@
+detection global local motion change human crowd

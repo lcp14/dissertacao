@@ -1,0 +1,1 @@
+solve k problem use bias random key genetic algorithm

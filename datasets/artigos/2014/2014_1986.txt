@@ -1,0 +1,1 @@
+protein sequence repository predict splice variant

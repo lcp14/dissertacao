@@ -1,0 +1,1 @@
+method vehicle license plate detection

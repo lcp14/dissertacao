@@ -1,0 +1,1 @@
+optimize access method query datum type

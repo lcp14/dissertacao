@@ -1,0 +1,1 @@
+newton approach solve constrain optimization problem use penalty

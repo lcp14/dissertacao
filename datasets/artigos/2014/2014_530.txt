@@ -1,0 +1,1 @@
+hybrid color segmentation method use customize nonlinear similarity function

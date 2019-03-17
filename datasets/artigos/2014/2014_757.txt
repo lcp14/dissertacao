@@ -1,0 +1,1 @@
+parameter longevity measure cattle use linear threshold model

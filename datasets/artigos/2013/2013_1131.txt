@@ -1,0 +1,1 @@
+frustum cull method use time render

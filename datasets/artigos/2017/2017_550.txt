@@ -1,0 +1,1 @@
+apply oracle evaluate image segmentation result

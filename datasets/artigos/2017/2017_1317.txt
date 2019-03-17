@@ -1,0 +1,1 @@
+definition compute independent model rule transformation focus model view controller architecture

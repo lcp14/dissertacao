@@ -1,0 +1,1 @@
+map noise figure gain flatness power mask use neural network

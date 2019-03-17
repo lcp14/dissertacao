@@ -1,0 +1,1 @@
+model protein structure prediction use hp chain model

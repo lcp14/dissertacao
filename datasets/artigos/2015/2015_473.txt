@@ -1,0 +1,1 @@
+shadow detection improvement use index operator resolution image area

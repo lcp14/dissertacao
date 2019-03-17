@@ -1,0 +1,1 @@
+strategic solution optimize molecular dock simulation use fully flexible receptor model

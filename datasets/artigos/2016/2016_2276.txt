@@ -1,0 +1,1 @@
+strong convergence project gradient method convex optimization space

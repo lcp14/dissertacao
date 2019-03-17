@@ -1,0 +1,1 @@
+resource share cloud radio access network

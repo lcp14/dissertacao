@@ -1,0 +1,1 @@
+distribute execution plan spatial join query use multidimensional histogram

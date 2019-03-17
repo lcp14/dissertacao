@@ -1,0 +1,1 @@
+development component base system use component metadata pattern

@@ -1,0 +1,1 @@
+model plan layout stack granite block terminal

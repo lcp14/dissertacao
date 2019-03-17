@@ -1,0 +1,1 @@
+s selective software error detection technique use assertion

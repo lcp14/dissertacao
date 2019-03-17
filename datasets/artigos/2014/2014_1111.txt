@@ -1,0 +1,1 @@
+importance word vowel duration speaker identification mean support vector machine

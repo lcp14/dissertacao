@@ -1,0 +1,1 @@
+study grid size impact raster base strip pack problem solution

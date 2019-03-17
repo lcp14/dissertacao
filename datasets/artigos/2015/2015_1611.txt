@@ -1,0 +1,1 @@
+sort inversion consider length symmetry

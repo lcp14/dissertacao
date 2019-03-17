@@ -1,0 +1,1 @@
+bound quadratic minimum spin tree problem adjacency cost

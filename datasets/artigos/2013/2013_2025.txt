@@ -1,0 +1,1 @@
+apply structural test service use test interface metadata

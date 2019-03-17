@@ -1,0 +1,1 @@
+stability analysis indirect binary model reference adaptive controller plant relative degree

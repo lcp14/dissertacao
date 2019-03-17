@@ -1,0 +1,1 @@
+structure base algorithm detect graph datum

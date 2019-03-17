@@ -1,0 +1,1 @@
+image filter base transform impulse noise reduction

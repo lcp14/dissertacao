@@ -1,0 +1,1 @@
+modular specification check structural dependency

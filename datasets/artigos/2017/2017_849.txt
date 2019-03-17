@@ -1,0 +1,1 @@
+generalize interval value operator weight derive interval value overlap function

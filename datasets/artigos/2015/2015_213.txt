@@ -1,0 +1,1 @@
+statement dynamic behavior pendulum excite crank shaft slider mechanism

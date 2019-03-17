@@ -1,0 +1,1 @@
+outdoor view recognition base landmark group logistic regression

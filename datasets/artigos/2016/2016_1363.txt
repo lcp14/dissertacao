@@ -1,0 +1,1 @@
+goal solver search base solver school timetable

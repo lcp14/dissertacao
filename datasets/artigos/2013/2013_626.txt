@@ -1,0 +1,1 @@
+model extract wind influence outdoor thermal inspection

@@ -1,0 +1,1 @@
+use latency indicator global cloud compute service

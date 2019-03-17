@@ -1,0 +1,1 @@
+accelerate error application function reuse

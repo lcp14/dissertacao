@@ -1,0 +1,1 @@
+state recognition use sequence feature

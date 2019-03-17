@@ -1,0 +1,1 @@
+cloud restriction solver refactoring base approach migrate application cloud

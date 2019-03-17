@@ -1,0 +1,1 @@
+architecture base distribute integrate trigger associate manage resource state

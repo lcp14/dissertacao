@@ -1,0 +1,1 @@
+flare detection system base tolerance near set framework

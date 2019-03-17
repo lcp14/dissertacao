@@ -1,0 +1,1 @@
+solve parity problem automaton

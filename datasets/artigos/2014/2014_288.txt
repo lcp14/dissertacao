@@ -1,0 +1,1 @@
+density determination automaton result construction direction

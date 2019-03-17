@@ -1,0 +1,1 @@
+online phoneme recognition use multi layer network combine recurrent non neural network exogenous input

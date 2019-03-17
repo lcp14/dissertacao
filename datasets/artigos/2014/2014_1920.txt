@@ -1,0 +1,1 @@
+line search method guarantee convergence improve optimum function

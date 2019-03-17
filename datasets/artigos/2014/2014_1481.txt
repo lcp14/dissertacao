@@ -1,0 +1,1 @@
+classification prostate tissue image use descriptor local binary pattern

@@ -1,0 +1,1 @@
+genome sequence strain host amazon

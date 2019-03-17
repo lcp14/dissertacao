@@ -1,0 +1,1 @@
+algorithm enumerate protein conformation verify set distance constraint

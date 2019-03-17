@@ -1,0 +1,1 @@
+improve performance cardiac simulation multi architecture use coalesce datum kernel scheme

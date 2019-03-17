@@ -1,0 +1,1 @@
+threshold base wavelet transform apply segmentation power quality disturbance

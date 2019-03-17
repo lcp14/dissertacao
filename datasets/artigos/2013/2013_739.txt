@@ -1,0 +1,1 @@
+object orient language distribute memory parallel compute platform

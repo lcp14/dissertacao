@@ -1,0 +1,1 @@
+object recognition base bag feature pattern descriptor

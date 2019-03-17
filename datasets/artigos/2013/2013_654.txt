@@ -1,0 +1,1 @@
+self dual filter toggle operator speckle noise filter

@@ -1,0 +1,1 @@
+texture base descriptor writer identification verification

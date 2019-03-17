@@ -1,0 +1,1 @@
+apply base verification hardware software partition embed system

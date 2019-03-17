@@ -1,0 +1,1 @@
+simulation network chip priority preemptive arbitration

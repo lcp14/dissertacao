@@ -1,0 +1,1 @@
+enhance wireless sensor network simulator realistic battery discharge function

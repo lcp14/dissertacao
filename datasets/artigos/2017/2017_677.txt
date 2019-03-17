@@ -1,0 +1,1 @@
+statistic model short term wind power forecast

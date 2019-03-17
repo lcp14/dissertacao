@@ -1,0 +1,1 @@
+node depth base encode spin tree representation algorithm proposal analysis

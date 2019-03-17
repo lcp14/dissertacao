@@ -1,0 +1,1 @@
+predict battery charge depletion wireless sensor network use receive signal strength indicator

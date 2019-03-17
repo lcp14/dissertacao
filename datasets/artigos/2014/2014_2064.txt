@@ -1,0 +1,1 @@
+algorithm compute possibly solution interval

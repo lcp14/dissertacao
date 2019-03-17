@@ -1,0 +1,1 @@
+close set speaker identification speech gateway

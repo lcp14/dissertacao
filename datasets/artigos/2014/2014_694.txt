@@ -1,0 +1,1 @@
+standard base service orient infrastructure integrate build distribute generation grid

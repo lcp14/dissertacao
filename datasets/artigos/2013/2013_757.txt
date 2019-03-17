@@ -1,0 +1,1 @@
+cuckoo search solve economic dispatch load problem

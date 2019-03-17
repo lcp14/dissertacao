@@ -1,0 +1,1 @@
+algorithm bi objective spin tree

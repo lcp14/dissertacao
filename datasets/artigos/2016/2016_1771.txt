@@ -1,0 +1,1 @@
+code smell analyzer tool teach support refactoring technique source code

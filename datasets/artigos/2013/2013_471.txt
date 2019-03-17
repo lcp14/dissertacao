@@ -1,0 +1,1 @@
+spectral model soybean yield estimate use mod datum

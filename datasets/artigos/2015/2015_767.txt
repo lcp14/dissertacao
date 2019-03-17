@@ -1,0 +1,1 @@
+vehicle gear shift strategy optimization respect performance fuel consumption

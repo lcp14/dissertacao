@@ -1,0 +1,1 @@
+wavelet neural network base power framework image verification

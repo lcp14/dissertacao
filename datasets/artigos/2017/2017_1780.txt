@@ -1,0 +1,1 @@
+introduce architectural conformance process continuous integration

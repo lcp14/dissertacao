@@ -1,0 +1,1 @@
+feather effect detector base local average value

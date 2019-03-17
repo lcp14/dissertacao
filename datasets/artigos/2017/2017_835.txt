@@ -1,0 +1,1 @@
+print pipeline use curve base model representation

@@ -1,0 +1,1 @@
+component trait purpose buffalo

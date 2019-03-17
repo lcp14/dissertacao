@@ -1,0 +1,1 @@
+strategy extract represent information protein template

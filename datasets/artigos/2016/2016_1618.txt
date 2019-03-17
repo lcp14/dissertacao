@@ -1,0 +1,1 @@
+cost auto scale system web application use spot instance

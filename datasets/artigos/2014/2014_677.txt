@@ -1,0 +1,1 @@
+support refactor application adaptive object model

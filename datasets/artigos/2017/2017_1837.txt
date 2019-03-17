@@ -1,0 +1,1 @@
+definition penalty function datum aggregation

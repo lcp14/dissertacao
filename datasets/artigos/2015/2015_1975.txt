@@ -1,0 +1,1 @@
+enhance texture descriptor neighborhood approach entropy

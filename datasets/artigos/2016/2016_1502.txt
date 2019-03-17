@@ -1,0 +1,1 @@
+map radiant region vibrate rectangular plate boundary condition supersonic intensity

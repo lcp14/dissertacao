@@ -1,0 +1,1 @@
+base object detection pose estimation warehouse pick place

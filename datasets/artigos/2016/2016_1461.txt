@@ -1,0 +1,1 @@
+formulation min degree constrain minimum spin tree problem

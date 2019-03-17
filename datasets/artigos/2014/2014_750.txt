@@ -1,0 +1,1 @@
+architecture dynamic adaptation compute

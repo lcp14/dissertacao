@@ -1,0 +1,1 @@
+class genetic fuzzy system base genetic classification problem

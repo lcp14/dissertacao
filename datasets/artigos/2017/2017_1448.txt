@@ -1,0 +1,1 @@
+self adaptive approach particle swarm optimization apply wind speed forecast

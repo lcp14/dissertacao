@@ -1,0 +1,1 @@
+shape description generalize support function

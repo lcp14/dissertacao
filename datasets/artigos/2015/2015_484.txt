@@ -1,0 +1,1 @@
+merge cellular automaton rule solution modulo n problem

@@ -1,0 +1,1 @@
+activity recognition framework use max min feature pose evolution forest classifier

@@ -1,0 +1,1 @@
+embed memory hierarchy exploration base magnetic random access memory

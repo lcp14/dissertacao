@@ -1,0 +1,1 @@
+theorem infinite group relaxation

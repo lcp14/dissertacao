@@ -1,0 +1,1 @@
+property sine function plane

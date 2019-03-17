@@ -1,0 +1,1 @@
+core application profile document analysis pattern reuse infrastructure

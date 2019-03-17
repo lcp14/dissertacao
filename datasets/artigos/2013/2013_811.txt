@@ -1,0 +1,1 @@
+modify burgers equation method

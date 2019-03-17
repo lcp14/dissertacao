@@ -1,0 +1,1 @@
+model fade channel binary erasures finite state channel

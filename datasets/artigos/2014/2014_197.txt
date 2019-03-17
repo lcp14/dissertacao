@@ -1,0 +1,1 @@
+model base solution use human wireless sensor network

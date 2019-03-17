@@ -1,0 +1,1 @@
+parameter analysis criterion heat transfer co bed wall

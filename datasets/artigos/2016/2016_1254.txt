@@ -1,0 +1,1 @@
+study daily demand forecast order use artificial neural network

@@ -1,0 +1,1 @@
+algorithm interval value datum weight variable

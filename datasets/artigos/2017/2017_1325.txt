@@ -1,0 +1,1 @@
+linear time computation index base stereo correspondence camera gain control

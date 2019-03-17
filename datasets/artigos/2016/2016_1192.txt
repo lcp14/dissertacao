@@ -1,0 +1,1 @@
+characterize fault real time system base grid automaton

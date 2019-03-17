@@ -1,0 +1,1 @@
+convergence rate inexact proximal point algorithm minimization manifold

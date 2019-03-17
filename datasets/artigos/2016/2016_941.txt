@@ -1,0 +1,1 @@
+new approach proximal point method convergence general manifold

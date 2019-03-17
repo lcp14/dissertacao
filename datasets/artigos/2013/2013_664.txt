@@ -1,0 +1,1 @@
+response latitude f region sector storm

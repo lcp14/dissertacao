@@ -1,0 +1,1 @@
+n queen problem resolution use quantum compute model

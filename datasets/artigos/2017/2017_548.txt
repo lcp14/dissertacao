@@ -1,0 +1,1 @@
+time gesture recognition use dynamic time warp simplification method

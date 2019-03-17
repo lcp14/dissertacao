@@ -1,0 +1,1 @@
+self configure type neural network

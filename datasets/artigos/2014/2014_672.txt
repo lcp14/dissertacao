@@ -1,0 +1,1 @@
+monitor network chip path adaptation mechanism

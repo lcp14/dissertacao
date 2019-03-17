@@ -1,0 +1,1 @@
+compare edge detection method base stochastic entropy distance imagery

@@ -1,0 +1,1 @@
+resource demand prediction allocation tenant service cloud

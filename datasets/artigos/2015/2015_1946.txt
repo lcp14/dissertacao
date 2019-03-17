@@ -1,0 +1,1 @@
+method generation interval fuzzy membership function

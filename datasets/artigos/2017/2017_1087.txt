@@ -1,0 +1,1 @@
+define management zone base soil attribute soybean productivity

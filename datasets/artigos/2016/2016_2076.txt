@@ -1,0 +1,1 @@
+summarize video sequence use graph base approach

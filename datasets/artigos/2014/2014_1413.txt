@@ -1,0 +1,1 @@
+multiprocessor system chip share memory use crossbar topology

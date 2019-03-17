@@ -1,0 +1,1 @@
+map region vibrate plate edge condition intensity

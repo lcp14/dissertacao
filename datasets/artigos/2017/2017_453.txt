@@ -1,0 +1,1 @@
+fast access big datum approach configurable object storage enable fault tolerance

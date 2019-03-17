@@ -1,0 +1,1 @@
+simulation heat transfer inside pack bed evaluation effective thermal conductivity

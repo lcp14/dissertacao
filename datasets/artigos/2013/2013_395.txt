@@ -1,0 +1,1 @@
+characterize optimal sample binary contingency table configuration model

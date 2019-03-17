@@ -1,0 +1,1 @@
+attenuation reset drain actuation linear logarithmic active pixel sensor

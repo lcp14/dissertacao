@@ -1,0 +1,1 @@
+mix equilibrium normal form game burn money rational

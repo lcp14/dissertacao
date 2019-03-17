@@ -1,0 +1,1 @@
+algorithm combine order weight time series term load forecast

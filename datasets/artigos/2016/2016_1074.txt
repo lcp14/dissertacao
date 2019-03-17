@@ -1,0 +1,1 @@
+abstraction type system component base performance compute platform

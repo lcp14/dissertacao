@@ -1,0 +1,1 @@
+field generic datum type big spatial datum

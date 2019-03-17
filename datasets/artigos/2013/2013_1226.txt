@@ -1,0 +1,1 @@
+sort permutation reversal hybrid genetic algorithm base elimination exact solution sign permutation

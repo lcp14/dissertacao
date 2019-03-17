@@ -1,0 +1,1 @@
+way extend t norm t negation

@@ -1,0 +1,1 @@
+prevent quality degradation video stream use selective redundancy

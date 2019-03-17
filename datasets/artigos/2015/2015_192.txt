@@ -1,0 +1,1 @@
+method solve bi minimum diameter cost spin tree problem

@@ -1,0 +1,1 @@
+location robot use artificial neural network image

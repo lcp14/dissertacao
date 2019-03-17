@@ -1,0 +1,1 @@
+calibrate cellular automaton land use cover change model use genetic algorithm

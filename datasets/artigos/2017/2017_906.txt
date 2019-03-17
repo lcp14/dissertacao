@@ -1,0 +1,1 @@
+estimate lifetime wireless sensor network node use embed analytic battery model

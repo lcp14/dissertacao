@@ -1,0 +1,1 @@
+resolution surface strain magnitude use camera resolution depth sensor

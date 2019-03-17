@@ -1,0 +1,1 @@
+handle fuzzy point fuzzy line use abstract datum type

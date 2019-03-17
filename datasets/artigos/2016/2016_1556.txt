@@ -1,0 +1,1 @@
+compute modulo n compose cellular automaton rule

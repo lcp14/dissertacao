@@ -1,0 +1,1 @@
+apply machine learn base classifier detect pattern savanna tree

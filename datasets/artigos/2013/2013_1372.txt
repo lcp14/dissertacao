@@ -1,0 +1,1 @@
+normal circular arc graph subclass
