@@ -1,0 +1,10 @@
+Topics 10
+['located cfd iodine according beds lime effluent aerosol reservoirs solid', 'international olympiad guide managing government developing creation technological defining perspective', 'protocols mechanism tolerant reliable mac switching latency cache bandwidth scalable', 'subspace fusion honeypot scene map surf invariant blur unsupervised encryption', 'knapsack benders variable grasp penalties harmony stacks degenerate formulations strip', 'spectroscopy breakdown draft laser transporter sections fraction fluorescence ocean nucleoprotein', 'impacts protected southernmost malaria winds lagoon campos farming acre grassland', 'realization verification applying actors methodology checkers hellfire sees concurrency diversifying', 'neighbour lexicon null revisiting readers procedures mv prove curvilinear karma', 'cue sugarcane francisco minas grosso donors stocks industrialized southern prospects']
+Coherence: -1.6616 (0.8883)
+[-0.6097316720358915, -2.572457922374766, -2.233636321249849, -1.5128161030001914, -3.227168841017085, -1.3856150452819804, -1.1605880049247514, -1.4061706359836268, -0.15152144103498225, -2.355976075611529]
+PMI: 4.4897 (0.0489)
+[4.4383067886516425, 4.498110837370737, 4.493797870803642, 4.45144513056972, 4.549847466749199, 4.547108485154293, 4.483186274742981, 4.4441380412677844, 4.422335312600732, 4.568265046994991]
+NPMI: 0.9902 (0.0043)
+[0.9971252122482455, 0.9888010437718351, 0.986352494873645, 0.9910992251820891, 0.9854779138366127, 0.9888917881726993, 0.9901998686807219, 0.9886148911635947, 0.999143630185921, 0.9866661549052528]
+W2V-L1: 0.6994 (0.1969)
+[0.47417516708374025, 0.7806339343388875, 0.7194776289992862, 0.6303822767403391, 0.863256945543819, 0.8697808401452171, 0.5958924939235052, 0.8733519320686658, 0.2726649910211563, 0.9146521687507629]
